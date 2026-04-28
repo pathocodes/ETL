@@ -21,10 +21,10 @@ Many branch IDs and locker numbers were embedded within the name string. I used 
 
 To ensure the dataset is production-ready, I performed the following operations:
 
-- Deduplication: Removed duplicate entries based on osm_id.
-- Centroid Extraction: Calculated the center point for polygon-based geometries to ensure every POI has a precise latitude and longitude.
-- Column Pruning: Removed redundant raw tags (original name) using an error-proof List Comprehension method.
-- Reordering: Standardized the column order: id → name → ref → latitude → longitude → geometry.
+- **Deduplication**: Removed duplicate entries based on osm_id.
+- **Centroid Extraction**: Calculated the center point for polygon-based geometries to ensure every POI has a precise latitude and longitude.
+- **Column Pruning**: Removed redundant raw tags (original name) using an error-proof List Comprehension method.
+- **Reordering**: Standardized the column order: id → name → ref → latitude → longitude → geometry.
 
 ## **Data Transformation: Berlin Postal Services**
 ---
@@ -32,7 +32,7 @@ To ensure the dataset is production-ready, I performed the following operations:
 - Standardized 'operator' names and 'street' columns for consistency.
 
 **2. Geopandas (Spatial Join)**
-- Merged postal data with lor_ortsteile.geojson to automatically assign Bezirk (District) and Neighborhood to each location.
+- Merged postal data with `lor_ortsteile.geojson` to automatically assign Bezirk (District) and Neighborhood to each location.
 
 **3. Spatial Deduplication**
 - Grouped data by operator and merged points within a 50m radius.
@@ -52,7 +52,7 @@ Data was pushed to a PostgreSQL database (hosted on Neon.tech) using SQLAlchemy 
 Shapely Geometry objects were converted into WKT (Well-Known Text) strings. This architectural choice facilitates seamless data exchange between systems that may not have full PostGIS extensions implemented, while maintaining high coordinate precision.
 
 **3. Schema Enforcement**
-**Table:** berlin_source_data.post_offices_final_hana
+**Table:** `berlin_source_data.post_offices`
 
 * **id** (BIGINT): Unique OpenStreetMap Identifier. PRIMARY KEY.
 * **district_id** (VARCHAR): Link to Berlin district master table. FOREIGN KEY, NOT NULL.
@@ -70,7 +70,7 @@ Shapely Geometry objects were converted into WKT (Well-Known Text) strings. This
 * **Row Count Integrity:** 950 / 950 rows (Matches Python DataFrame). Status: Passed.
 * **Foreign Key Check:** 0 orphan rows on district_id. Status: Passed.
 * **Bounding Box Validation:** 0 Outliers (All coordinates within Berlin limits). Status: Passed.
-* **Nullity Check:** 0 NULLs in mandatory columns (id, operator, district_id, amenity). Status: Passed.
+* **Nullity Check:** 0 NULLs in mandatory columns (`id`, `operator`, `district_id`, `amenity`). Status: Passed.
 * **Spatial Coverage:** Data successfully distributed across all 12 Districts. Status: Passed.
 
 ### Consistency Insights
@@ -85,8 +85,9 @@ Shapely Geometry objects were converted into WKT (Well-Known Text) strings. This
 2. Run the production_load.ipynb notebook.
 3. Verify the load using the following SQL query:
 
-   SELECT district, COUNT(*) FROM berlin_source_data.post_offices_final_hana GROUP BY district;
-
+```bash
+SELECT district, COUNT(*) FROM berlin_source_data.post_offices_final_hana GROUP BY district;
+```
 ---
 
 ### Technical Note
