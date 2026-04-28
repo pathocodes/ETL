@@ -1,0 +1,1063 @@
+id,opening_hours,fee,geometry,latitude,longitude,atm_type,accessibility,address,name,district,neighborhood_id,neighborhood,district_id
+60852951,24/7,,POINT (13.4656184 52.5246695),52.5246695,13.4656184,standalone,accessible,"Storkower Bogen, 10369, Berlin",Berliner Volksbank,Lichtenberg,1111,Fennpfuhl,11011011
+78252154,,,POINT (13.3986266 52.5237445),52.5237445,13.3986266,standalone,accessible,"Oranienburger Straße, 13, 10178, Berlin",Bank Für Sozialwirtschaft,Mitte,0101,Mitte,11001001
+87036263,06:00-23:00,,POINT (13.3842822 52.5329853),52.5329853,13.3842822,indoor,accessible,"Caroline-Michaelis-Straße, 10115, Berlin",Sparda-Bank Berlin,Mitte,0101,Mitte,11001001
+213106623,,,POINT (13.4411367 52.5421697),52.5421697,13.4411367,indoor,accessible,"Greifswalder Straße, 87-88, 10409, Berlin",Sparkasse,Pankow,0301,Prenzlauer Berg,11003003
+239694634,,,POINT (13.5216425 52.4975011),52.4975011,13.5216425,standalone,accessible,"Otto-Schmirgal-Straße, 3, 10319, Berlin",Berliner Volksbank,Lichtenberg,1101,Friedrichsfelde,11011011
+253624651,24/7,,POINT (13.45327 52.5122086),52.5122086,13.45327,indoor,not accessible,"Grünberger Straße, 34, 10245, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+266622701,24/7,fee applies,POINT (13.6119501 52.5123211),52.5123211,13.6119501,indoor,accessible,"Hönower Straße, 12623, Berlin",Cashzone,Marzahn-Hellersdorf,1004,Mahlsdorf,11010010
+269111123,24/7,,POINT (13.2407359 52.6180992),52.6180992,13.2407359,indoor,accessible,"Ruppiner Chaussee, 13503, Berlin",Berliner Volksbank,Reinickendorf,1204,Heiligensee,11012012
+269478773,,,POINT (13.5354903 52.4331872),52.4331872,13.5354903,indoor,,"Rudower Chaussee, 12489, Berlin",Berliner Sparkasse,Treptow-Köpenick,0907,Adlershof,11009009
+280543616,,,POINT (13.3515121 52.4396293),52.4396293,13.3515121,standalone,,"Kaiser-Wilhelm-Straße, 117, 12247, Berlin",Ing,Steglitz-Zehlendorf,0603,Lankwitz,11006006
+282420329,,,POINT (13.4561861 52.510403),52.510403,13.4561861,standalone,partially accessible,"Simon-Dach-Straße, 13, 10245, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+283287153,,,POINT (13.2856117 52.5846689),52.5846689,13.2856117,indoor,accessible,"Am Borsigturm, 2, 13507, Berlin",Berliner Sparkasse,Reinickendorf,1202,Tegel,11012012
+287297011,24/7,,POINT (13.4621311 52.498361),52.498361,13.4621311,indoor,accessible,"Stralauer Allee, 18, 10245, Berlin",Landesbank Berlin,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+287970705,,,POINT (13.4446043 52.5644743),52.5644743,13.4446043,indoor,accessible,"Romain-Rolland-Straße, 13089, Berlin",Berliner Sparkasse,Pankow,0304,Heinersdorf,11003003
+290670855,24/7,,POINT (13.1992817 52.5352575),52.5352575,13.1992817,indoor,accessible,"Altstädter Ring, 1, 13597, Berlin",Sparkasse Berlin,Spandau,0501,Spandau,11005005
+308019533,24/7,,POINT (13.5149359 52.5054142),52.5054142,13.5149359,standalone,partially accessible,"Alfred-Kowalke-Straße, 10315, Berlin",Landesbank Berlin,Lichtenberg,1101,Friedrichsfelde,11011011
+313220249,,,POINT (13.3279689 52.4649835),52.4649835,13.3279689,standalone,accessible,"Walther-Schreiber-Platz, 1, 12161, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0702,Friedenau,11007007
+318802659,24/7,,POINT (13.4130036 52.5408053),52.5408053,13.4130036,standalone,partially accessible,"Danziger Straße, 4, 10435, Berlin",Berliner Volksbank,Pankow,0301,Prenzlauer Berg,11003003
+322565365,06:00-22:00,,POINT (13.4108669 52.5219256),52.5219256,13.4108669,standalone,partially accessible,"Dircksenstraße, 10179, Berlin",Berliner Volksbank,Mitte,0101,Mitte,11001001
+333445280,24/7,,POINT (13.4267477 52.4756435),52.4756435,13.4267477,standalone,partially accessible,"Hermannstraße, 63, 12049, Berlin",Volksbank,Neukölln,0801,Neukölln,11008008
+333448125,,,POINT (13.4249122 52.4870749),52.4870749,13.4249122,standalone,partially accessible,"Hermannplatz, 12047, Berlin","Landesbank Berlin, Berliner Sparkasse",Neukölln,0801,Neukölln,11008008
+355744865,,,POINT (13.3842928 52.5555699),52.5555699,13.3842928,standalone,,"Prinzenallee, 13357, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+358513878,24/7,fee varies,POINT (13.4196917 52.5421709),52.5421709,13.4196917,standalone,accessible,"Raumerstraße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+370347889,24/7,,POINT (13.499794 52.5090374),52.5090374,13.499794,indoor,not accessible,"Wönnichstraße, 10317, Berlin",Berliner Sparkasse,Lichtenberg,1112,Rummelsburg,11011011
+375802179,,fee varies,POINT (13.3218496 52.511722),52.511722,13.3218496,indoor,not accessible,"Hardenbergstraße, 10587, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+393409420,,,POINT (13.2897845 52.4972855),52.4972855,13.2897845,standalone,accessible,"Kurfürstendamm, 116, 10711, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+410178846,,,POINT (13.6018415 52.5362937),52.5362937,13.6018415,indoor,accessible,"Janusz-Korczak-Straße, 1, 12627, Berlin",Deutsche Bank,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+419179952,,,POINT (13.2736929 52.5354859),52.5354859,13.2736929,standalone,,"Ohmstraße, 13629, Berlin",Degussa Bank,Spandau,0503,Siemensstadt,11005005
+444606371,,,POINT (13.2921627 52.4968934),52.4968934,13.2921627,indoor,partially accessible,"Westfälische Straße, 47, 10711, Berlin",Berliner Volksbank,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+448809594,24/7,,POINT (13.4413034 52.4702499),52.4702499,13.4413034,standalone,accessible,"Karl-Marx-Straße, 12055, Berlin",Berliner Sparkasse,Neukölln,0801,Neukölln,11008008
+461820447,,,POINT (13.2884049 52.4524272),52.4524272,13.2884049,indoor,accessible,"Rudi-Dutschke-Weg, 14195, Berlin",Sparkasse,Steglitz-Zehlendorf,0605,Dahlem,11006006
+472560519,,,POINT (13.3023417 52.4266045),52.4266045,13.3023417,standalone,not accessible,"Lausanner Straße, 12205, Berlin",Berliner Volksbank,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+480760490,,fee varies,POINT (13.5576173 52.5063499),52.5063499,13.5576173,indoor,accessible,"Weißenhöher Straße, 108, 12683, Berlin",Berliner Sparkasse,Marzahn-Hellersdorf,1002,Biesdorf,11010010
+495237837,,,POINT (13.3096419 52.5469559),52.5469559,13.3096419,standalone,,"Saatwinkler Damm, 13627, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0406,Charlottenburg-Nord,11004004
+513965616,,,POINT (13.4406172 52.4733398),52.4733398,13.4406172,standalone,not accessible,"Karl-Marx-Straße, 12043, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+528148813,Mo-Sa 07:00-21:00,fee varies,POINT (13.4184296 52.5363381),52.5363381,13.4184296,indoor,accessible,"Wörther Straße, 10405, Berlin",Berliner Volksbank,Pankow,0301,Prenzlauer Berg,11003003
+528148816,,fee varies,POINT (13.408335 52.53694),52.53694,13.408335,standalone,accessible,"Kastanienallee, 82, 10435, Berlin",Bankhaus August Lenz,Pankow,0301,Prenzlauer Berg,11003003
+530733753,,,POINT (13.5922361 52.5293213),52.5293213,13.5922361,standalone,partially accessible,"Neue Grottkauer Straße, 12619, Berlin",Berliner Volksbank,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+538039424,,fee varies,POINT (13.4063548 52.535059),52.535059,13.4063548,standalone,not accessible,"Kastanienallee, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+538257749,,,POINT (13.2326408 52.4369876),52.4369876,13.2326408,standalone,accessible,"Urselweg, 14163, Berlin",Cardpoint GmbH,Steglitz-Zehlendorf,0604,Zehlendorf,11006006
+549227519,06:00-22:00,,POINT (13.5043852 52.5482381),52.5482381,13.5043852,standalone,accessible,"Leuenberger Straße, 13055, Berlin",Berliner Sparkasse,Lichtenberg,1110,Alt-Hohenschönhausen,11011011
+579989084,,,POINT (13.2636288 52.5374963),52.5374963,13.2636288,standalone,,"Rohrdamm, 85, 13629, Berlin",Cashpool,Spandau,0503,Siemensstadt,11005005
+582884408,24/7,,POINT (13.478758 52.5273738),52.5273738,13.478758,standalone,partially accessible,"Weißenseer Weg, 10367, Berlin",Berliner Volksbank,Lichtenberg,1111,Fennpfuhl,11011011
+593781955,,,POINT (13.3446196 52.4358585),52.4358585,13.3446196,standalone,accessible,"Kaiser-Wilhelm-Straße, 74, 12247, Berlin",Berliner Sparkasse,Steglitz-Zehlendorf,0603,Lankwitz,11006006
+607971896,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.4523446 52.5186567),52.5186567,13.4523446,indoor,partially accessible,"Bersarinplatz, 10249, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+618048314,,,POINT (13.4959246 52.634545),52.634545,13.4959246,indoor,accessible,"Schlosspark-Passage, 13125, Berlin",Berliner Sparkasse,Pankow,0309,Buch,11003003
+628068878,,,POINT (13.3045482 52.5088293),52.5088293,13.3045482,standalone,accessible,"Wilmersdorfer Straße, 46, 10627, Berlin",Postbank,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+646593047,,,POINT (13.388815 52.549929),52.549929,13.388815,indoor,accessible,"Behmstraße, 13357, Berlin",Ing,Mitte,0106,Gesundbrunnen,11001001
+648665040,,,POINT (13.4700113 52.5062062),52.5062062,13.4700113,standalone,accessible,"Boxhagener Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+670658004,,,POINT (13.3495364 52.4815015),52.4815015,13.3495364,standalone,,"Dominicusstraße, 10827, Berlin",Cashzone,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+671776275,,,POINT (13.2586505 52.508274),52.508274,13.2586505,standalone,accessible,"Boyenallee, 14055, Berlin",Berliner Volksbank,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+674016086,,,POINT (13.392489 52.5432552),52.5432552,13.392489,standalone,accessible,"Brunnenstraße, 13355, Berlin",IC Cash Services,Mitte,0106,Gesundbrunnen,11001001
+676381853,24/7,fee varies,POINT (13.4217122 52.5393376),52.5393376,13.4217122,standalone,partially accessible,"Danziger Straße, 10435, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+677863187,,,POINT (13.4863368 52.6186485),52.6186485,13.4863368,standalone,accessible,"Achillesstraße, 46, 13125, Berlin",Berliner Sparkasse,Pankow,0305,Karow,11003003
+688402315,24/7,,POINT (13.4055478 52.5099638),52.5099638,13.4055478,standalone,not accessible,"Neue Grünstraße, 10179, Berlin",Euronet,Mitte,0101,Mitte,11001001
+698037699,,,POINT (13.4051167 52.5283244),52.5283244,13.4051167,standalone,accessible,"Gormannstraße, 14, 10119, Berlin",Cashzone,Mitte,0101,Mitte,11001001
+722560308,24/7,,POINT (13.6861257 52.4422098),52.4422098,13.6861257,standalone,,"Fürstenwalder Allee, 12589, Berlin",Berliner Volksbank,Treptow-Köpenick,0912,Rahnsdorf,11009009
+726126792,,,POINT (13.3140927 52.4744387),52.4744387,13.3140927,indoor,accessible,"Homburger Straße, 14197, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+741036439,,,POINT (13.3698214 52.5251071),52.5251071,13.3698214,indoor,accessible,"Eingangsebene, 10557, Berlin",Reisebank,Mitte,0102,Moabit,11001001
+752878312,24/7,,POINT (13.4549659 52.4732205),52.4732205,13.4549659,standalone,accessible,"Brusendorfer Straße, 12055, Berlin",Ge Money Bank,Neukölln,0801,Neukölln,11008008
+753028442,,,POINT (13.4399542 52.4752339),52.4752339,13.4399542,standalone,not accessible,"Uthmannstraße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+766742163,,,POINT (13.4077972 52.4896569),52.4896569,13.4077972,standalone,accessible,"Südstern, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+821097263,24/7,,POINT (13.4316887 52.4972961),52.4972961,13.4316887,standalone,,"Wiener Straße, 10999, Berlin",August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+823779634,,,POINT (13.4153856 52.543656),52.543656,13.4153856,standalone,not accessible,"Pappelallee, 10437, Berlin",Bankhaus August Lenz,Pankow,0301,Prenzlauer Berg,11003003
+824505945,,,POINT (13.3933314 52.4890413),52.4890413,13.3933314,standalone,not accessible,"Bergmannstraße, 10961, Berlin",Vöb,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+833044233,24/7,,POINT (13.5086449 52.4514811),52.4514811,13.5086449,standalone,partially accessible,"Sterndamm, 12487, Berlin",Berliner Volksbank,Treptow-Köpenick,0904,Johannisthal,11009009
+845297763,,,POINT (13.5099143 52.4961166),52.4961166,13.5099143,indoor,accessible,"Sewanstraße, 10319, Berlin",Sparkasse,Lichtenberg,1101,Friedrichsfelde,11011011
+853887517,,,POINT (13.3841848 52.4568088),52.4568088,13.3841848,standalone,,"Burgemeisterstraße, 12099, Berlin",unknown_atm,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+860034886,,,POINT (13.4141776 52.5027753),52.5027753,13.4141776,standalone,not accessible,"Oranienstraße, 10969, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+861288759,,,POINT (13.3195288 52.4995256),52.4995256,13.3195288,standalone,not accessible,"Lietzenburger Straße, 10719, Berlin",Berliner Volksbank,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+863962830,24/7,fee varies,POINT (13.4684922 52.5066974),52.5066974,13.4684922,standalone,accessible,"Lenbachstraße, 22, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+872318155,,,POINT (13.416896 52.4990237),52.4990237,13.416896,standalone,partially accessible,"Skalitzer Straße, 139, 10999, Berlin",İŞbank,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+886154884,,,POINT (13.4272762 52.4988027),52.4988027,13.4272762,standalone,not accessible,"Wiener Straße, 7, 10999, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+892846107,,,POINT (13.2786819 52.504843),52.504843,13.2786819,standalone,,"Messedamm, 14055, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+892846126,,,POINT (13.2751803 52.5062074),52.5062074,13.2751803,standalone,,"Hammarskjöldplatz, 14055, Berlin",Ing-Diba,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+897675634,,,POINT (13.5869912 52.5229345),52.5229345,13.5869912,standalone,accessible,"Hellersdorfer Straße, 77-83, 12619, Berlin",unknown_atm,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+897676797,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.5873989 52.5210284),52.5210284,13.5873989,standalone,accessible,"Ludwigsluster Straße, 12619, Berlin",unknown_atm,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+963365801,24/7,,POINT (13.4492693 52.5053636),52.5053636,13.4492693,indoor,accessible,"Tamara-Danz-Straße, 10243, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+963792313,,,POINT (13.2079948 52.5609061),52.5609061,13.2079948,indoor,accessible,"Streitstraße, 60, 13587, Berlin",Sparkasse,Spandau,0507,Hakenfelde,11005005
+975235168,,,POINT (13.4605713 52.5109772),52.5109772,13.4605713,standalone,partially accessible,"Grünberger Straße, 10245, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+975235216,,,POINT (13.4595861 52.5102301),52.5102301,13.4595861,standalone,accessible,"Krossener Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+992806064,,,POINT (13.3294414 52.4294081),52.4294081,13.3294414,indoor,accessible,"Lankwitzer Straße, 12209, Berlin",Berliner Volksbank,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+997194065,,,POINT (13.4202431 52.4912867),52.4912867,13.4202431,standalone,partially accessible,"Schönleinstraße, 10967, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+997194082,,,POINT (13.4243865 52.4888138),52.4888138,13.4243865,standalone,accessible,"Kottbusser Damm, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1002640904,,,POINT (13.3124145 52.422983),52.422983,13.3124145,indoor,accessible,"Ostpreußendamm, 60, 12207, Berlin",Sparkasse,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+1037720943,,,POINT (13.2733855 52.5098629),52.5098629,13.2733855,standalone,not accessible,"Theodor-Heuss-Platz, 14052, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+1064486103,,,POINT (13.3030767 52.5057822),52.5057822,13.3030767,standalone,not accessible,"Kaiser-Friedrich-Straße, 10627, Berlin",IC Cash Services,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+1070919516,,,POINT (13.2750375 52.5098062),52.5098062,13.2750375,standalone,accessible,"Kaiserdamm, 39/40, 14057, Berlin",Deutsche Bank,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+1077596650,,,POINT (13.4540642 52.5148278),52.5148278,13.4540642,standalone,accessible,"Warschauer Straße, 10245, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+1077639194,,,POINT (13.442868 52.5003387),52.5003387,13.442868,standalone,not accessible,"Schlesische Straße, 10997, Berlin",Bankverein Werther,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1108083476,,,POINT (13.3257079 52.4866612),52.4866612,13.3257079,standalone,partially accessible,"Berliner Straße, 10715, Berlin",Bankhaus August-Lenz,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+1116667793,24/7,,POINT (13.4192703 52.5401822),52.5401822,13.4192703,standalone,accessible,"Danziger Straße, 10435, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+1161567826,,,POINT (13.3972519 52.5322368),52.5322368,13.3972519,indoor,accessible,"Invalidenstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+1165884672,,,POINT (13.4283185 52.4869273),52.4869273,13.4283185,standalone,partially accessible,"Sonnenallee, 12047, Berlin",Vöb,Neukölln,0801,Neukölln,11008008
+1166187568,24/7,,POINT (13.4033462 52.5223627),52.5223627,13.4033462,standalone,accessible,"Litfaß-Platz, 10178, Berlin",Sparkasse,Mitte,0101,Mitte,11001001
+1181625808,24/7,,POINT (13.448559 52.5053459),52.5053459,13.448559,standalone,accessible,"Warschauer Straße, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+1185934251,,,POINT (13.4180504 52.4999354),52.4999354,13.4180504,standalone,,"Adalbertstraße, 10999, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1187926820,,,POINT (13.4400824 52.5176956),52.5176956,13.4400824,indoor,accessible,"Karl-Marx-Allee, 10243, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+1216376095,24/7,,POINT (13.4219139 52.4927975),52.4927975,13.4219139,standalone,accessible,"Schönleinstraße, 35, 10967, Berlin",Euronet Worldwide,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1216379421,,,POINT (13.422204 52.492807),52.492807,13.422204,standalone,partially accessible,"Kottbusser Damm, 10967, Berlin",August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1218224426,,,POINT (13.416797 52.4924113),52.4924113,13.416797,standalone,accessible,"Dieffenbachstraße, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1225483654,,,POINT (13.421785 52.485841),52.485841,13.421785,standalone,accessible,"Hasenheide, 10967, Berlin",Intercard,Neukölln,0801,Neukölln,11008008
+1228672117,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3476506 52.5531689),52.5531689,13.3476506,indoor,accessible,"Müllerstraße, 13349, Berlin",Berliner Sparkasse,Mitte,0105,Wedding,11001001
+1282045516,24/7,,POINT (13.4149218 52.5218471),52.5218471,13.4149218,standalone,accessible,"3, 10178, Berlin",Berliner Volksbank,Mitte,0101,Mitte,11001001
+1296600061,,,POINT (13.4289087 52.498247),52.498247,13.4289087,standalone,accessible,"Wiener Straße, 14, 10999, Berlin",Werther Bank,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1311121841,24/7,,POINT (13.3137131 52.506609),52.506609,13.3137131,standalone,,"Leibnizstraße, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+1311844578,,,POINT (13.4617265 52.5156531),52.5156531,13.4617265,indoor,accessible,"Frankfurter Allee, 10247, Berlin",Cashzone,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+1326040232,24/7,,POINT (13.4683628 52.5045578),52.5045578,13.4683628,standalone,not accessible,"Neue Bahnhofstraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+1330131247,,,POINT (13.300956 52.583326),52.583326,13.300956,standalone,,"Ernststraße, 58, 13509, Berlin",Berliner Volksbank,Reinickendorf,1211,Borsigwalde,11012012
+1332593188,,,POINT (13.2832545 52.5897778),52.5897778,13.2832545,standalone,not accessible,"Berliner Straße, 13507, Berlin",Berliner Sparkasse,Reinickendorf,1202,Tegel,11012012
+1332593962,,,POINT (13.3066771 52.5069476),52.5069476,13.3066771,standalone,accessible,"Wilmersdorfer Straße, 112, 10627, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+1332594418,,,POINT (13.3532692 52.5498585),52.5498585,13.3532692,standalone,,"Müllerstraße, 13353, Berlin",Berliner Sparkasse,Mitte,0105,Wedding,11001001
+1339007647,,fee applies,POINT (13.3179457 52.5059013),52.5059013,13.3179457,standalone,accessible,"Schlüterstraße, 62, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+1348024617,,,POINT (13.259262 52.4323411),52.4323411,13.259262,standalone,,"Teltower Damm, 14169, Berlin",Bundesverband Öffentlicher Banken Deutschlands,Steglitz-Zehlendorf,0604,Zehlendorf,11006006
+1363110469,,,POINT (13.3259837 52.5098193),52.5098193,13.3259837,standalone,accessible,"Hardenbergstraße, 10623, Berlin",Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+1370345993,,,POINT (13.2470984 52.5375249),52.5375249,13.2470984,standalone,,"Boltonstraße, 13599, Berlin",Berliner Volksbank,Spandau,0503,Siemensstadt,11005005
+1374215636,,,POINT (13.4123325 52.5331666),52.5331666,13.4123325,standalone,accessible,"Schönhauser Allee, 10435, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+1389043778,,,POINT (13.4245194 52.5283118),52.5283118,13.4245194,standalone,,"Am Friedrichshain, 10407, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+1389063152,,,POINT (13.424344 52.4997945),52.4997945,13.424344,standalone,not accessible,"Oranienstraße, 10999, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1389419252,,,POINT (13.4074705 52.528929),52.528929,13.4074705,standalone,not accessible,"Torstraße, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+1424999183,,,POINT (13.4323298 52.4970839),52.4970839,13.4323298,standalone,,"Wiener Straße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1445456966,24/7,,POINT (13.3412119 52.5254491),52.5254491,13.3412119,standalone,accessible,"Alt-Moabit, 10555, Berlin",Berliner Sparkasse,Mitte,0102,Moabit,11001001
+1445458094,24/7,,POINT (13.3358835 52.5265567),52.5265567,13.3358835,standalone,accessible,"Turmstraße, 10551, Berlin",Euronet,Mitte,0102,Moabit,11001001
+1455333653,,,POINT (13.4619169 52.5240159),52.5240159,13.4619169,indoor,accessible,"Hermann-Blankenstein-Straße, 10249, Berlin",Berliner Sparkasse,Pankow,0301,Prenzlauer Berg,11003003
+1472157630,,,POINT (13.4252917 52.4882884),52.4882884,13.4252917,standalone,partially accessible,"Weserstraße, 12047, Berlin",Berliner Volksbank,Neukölln,0801,Neukölln,11008008
+1472505596,,,POINT (13.3740189 52.5057308),52.5057308,13.3740189,indoor,accessible,"Eichhornstraße, 10785, Berlin",Berliner Volksbank,Mitte,0104,Tiergarten,11001001
+1482494949,,,POINT (13.4230019 52.4865194),52.4865194,13.4230019,indoor,accessible,"Lucy-Lameck-Straße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+1486087546,,,POINT (13.4523874 52.5501697),52.5501697,13.4523874,indoor,partially accessible,"Charlottenburger Straße, 13086, Berlin",Postbank,Pankow,0302,Weißensee,11003003
+1519869615,,,POINT (13.4469349 52.4367235),52.4367235,13.4469349,indoor,accessible,"Gutschmidtstraße, 29, 12359, Berlin",Postbank,Neukölln,0802,Britz,11008008
+1531121158,,,POINT (13.4316279 52.466614),52.466614,13.4316279,standalone,accessible,"Hermannstraße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+1534480607,24/7,,POINT (13.4288015 52.488537),52.488537,13.4288015,standalone,accessible,"Reuterstraße, 12047, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+1535093993,,,POINT (13.5048181 52.5480043),52.5480043,13.5048181,standalone,accessible,"Leuenberger Straße, 13055, Berlin",Berliner Volksbank,Lichtenberg,1110,Alt-Hohenschönhausen,11011011
+1542930483,24/7,,POINT (13.3478213 52.5199255),52.5199255,13.3478213,indoor,accessible,"Bartningallee, 10557, Berlin",Euronet,Mitte,0103,Hansaviertel,11001001
+1552072162,24/7,,POINT (13.3999804 52.529714),52.529714,13.3999804,indoor,accessible,"Torstraße, 131, 10119, Berlin",Sparkasse,Mitte,0101,Mitte,11001001
+1562532740,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.2870127 52.6324436),52.6324436,13.2870127,indoor,accessible,"Ludolfingerweg, 13465, Berlin",Berliner Sparkasse,Reinickendorf,1205,Frohnau,11012012
+1562532749,06:00-22:00,,POINT (13.2900551 52.6334814),52.6334814,13.2900551,indoor,accessible,"Zeltinger Platz, 13465, Berlin",Commerzbank,Reinickendorf,1205,Frohnau,11012012
+1562532751,06:00-23:00,,POINT (13.28774 52.6318786),52.6318786,13.28774,indoor,,"Ludolfingerplatz, 13465, Berlin",Volksbank,Reinickendorf,1205,Frohnau,11012012
+1581176608,,,POINT (13.4780981 52.5269303),52.5269303,13.4780981,indoor,not accessible,"Paul-Junius-Straße, 10369, Berlin",Postbank,Lichtenberg,1111,Fennpfuhl,11011011
+1606477973,24/7,,POINT (13.4242438 52.5385548),52.5385548,13.4242438,standalone,not accessible,"Prenzlauer Allee, 53, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+1615771864,,no fee,POINT (13.3674219 52.4621535),52.4621535,13.3674219,indoor,accessible,"Bessemerstraße, 12103, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+1660300164,,,POINT (13.6028335 52.5386728),52.5386728,13.6028335,indoor,accessible,"Janusz-Korczak-Straße, 12627, Berlin",Postbank Berlin,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+1667735100,,,POINT (13.387656 52.5203689),52.5203689,13.387656,indoor,accessible,"Friedrichstraße, 10117, Berlin",Ec,Mitte,0101,Mitte,11001001
+1673064990,,,POINT (13.3419644 52.4669182),52.4669182,13.3419644,standalone,accessible,"Beckerstraße, 21, 12157, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+1699452838,,,POINT (13.433022 52.506004),52.506004,13.433022,standalone,,"Köpenicker Straße, 10997, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1712876299,24/7,fee varies,POINT (13.3797321 52.5228544),52.5228544,13.3797321,standalone,,"Luisenstraße, 10117, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+1766221047,,,POINT (13.4357092 52.425028),52.425028,13.4357092,standalone,accessible,"Rohrlegerweg, 12351, Berlin",Berliner Sparkasse,Neukölln,0803,Buckow,11008008
+1808799925,,,POINT (13.5412662 52.3970447),52.3970447,13.5412662,standalone,accessible,"Alexander-Meißner-Straße, 1, 12526, Berlin",unknown_atm,Treptow-Köpenick,0908,Bohnsdorf,11009009
+1814087028,,,POINT (13.3910533 52.5043873),52.5043873,13.3910533,standalone,accessible,"Friedrichstraße, 30, 10969, Berlin",Cardpoint GmbH,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1818775633,24/7,,POINT (13.4686135 52.5145457),52.5145457,13.4686135,standalone,accessible,"Frankfurter Allee, 71, 10247, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+1819929366,,,POINT (13.4032967 52.5196362),52.5196362,13.4032967,standalone,accessible,"Heiligegeistgasse, 10178, Berlin",Berliner Volksbank,Mitte,0101,Mitte,11001001
+1830330275,24/7,,POINT (13.4989288 52.5109836),52.5109836,13.4989288,standalone,,"Frankfurter Allee, 10317, Berlin",Berliner Sparkasse,Lichtenberg,1112,Rummelsburg,11011011
+1845242180,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.4048294 52.5700507),52.5700507,13.4048294,indoor,accessible,"Breite Straße, 20, 13187, Berlin",Berliner Sparkasse,Pankow,0307,Pankow,11003003
+1861543927,,,POINT (13.4589677 52.4737609),52.4737609,13.4589677,indoor,accessible,"Ziegrastraße, 12057, Berlin",Berliner Volksbank,Neukölln,0801,Neukölln,11008008
+1867448325,,,POINT (13.4333916 52.5309725),52.5309725,13.4333916,standalone,not accessible,"Bötzowstraße, 10407, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+1891376996,,,POINT (13.3908434 52.433918),52.433918,13.3908434,standalone,,"Hundsteinweg, 12107, Berlin",Ing-Diba,Tempelhof-Schöneberg,0704,Mariendorf,11007007
+1906515119,,,POINT (13.320031 52.4975387),52.4975387,13.320031,standalone,accessible,"Emser Straße, 10719, Berlin",Euronet,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+1906524066,Mo-Sa 09:00-20:00,,POINT (13.4488718 52.4664486),52.4664486,13.4488718,standalone,,"Naumburger Straße, 12057, Berlin",Postbank,Neukölln,0801,Neukölln,11008008
+1928223921,24/7,,POINT (13.4101866 52.5704611),52.5704611,13.4101866,standalone,,"Berliner Straße, 13187, Berlin",Bankhaus August Lenz,Pankow,0307,Pankow,11003003
+1928862490,,,POINT (13.3065494 52.6169895),52.6169895,13.3065494,standalone,accessible,"Heinsestraße, 13467, Berlin",Berliner Volksbank,Reinickendorf,1206,Hermsdorf,11012012
+1937657649,,,POINT (13.3940411 52.4913177),52.4913177,13.3940411,standalone,not accessible,"Gneisenaustraße, 10961, Berlin",Euronet Worldwide,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+1964324881,,,POINT (13.414017 52.5329811),52.5329811,13.414017,indoor,accessible,"Kollwitzstraße, 10405, Berlin",Vöb,Pankow,0301,Prenzlauer Berg,11003003
+1993982543,,,POINT (13.4602503 52.4929049),52.4929049,13.4602503,standalone,partially accessible,"Puschkinallee, 14, 12435, Berlin",Euronet,Treptow-Köpenick,0901,Alt-Treptow,11009009
+2011439793,,,POINT (13.4215698 52.5138278),52.5138278,13.4215698,standalone,,"Holzmarktstraße, 10179, Berlin",Ing,Mitte,0101,Mitte,11001001
+2011440549,,,POINT (13.4165005 52.5187231),52.5187231,13.4165005,standalone,accessible,"Grunerstraße, 20, 10179, Berlin",Euronet,Mitte,0101,Mitte,11001001
+2013009709,,,POINT (13.421024 52.4950993),52.4950993,13.421024,standalone,partially accessible,"Kottbusser Damm, 10967, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+2027819247,,fee varies,POINT (13.383085 52.4990768),52.4990768,13.383085,indoor,not accessible,"Hallesches Ufer, 10963, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+2029768630,,,POINT (13.3098069 52.506668),52.506668,13.3098069,standalone,accessible,"Kantstraße, 10625, Berlin",Berliner Volksbank,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+2046262919,,,POINT (13.352982 52.5021198),52.5021198,13.352982,standalone,not accessible,"Kurfürstenstraße, 10785, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+2139861400,,,POINT (13.3122429 52.4989785),52.4989785,13.3122429,standalone,not accessible,"Konstanzer Straße, 10707, Berlin",Santander,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+2154992197,,,POINT (13.326802 52.5118931),52.5118931,13.326802,indoor,accessible,"Hertzallee, 10623, Berlin",Berliner Volksbank,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+2176167777,,,POINT (13.3843726 52.4597818),52.4597818,13.3843726,indoor,accessible,"Tempelhofer Damm, 12099, Berlin",Sparkasse Berlin,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+2180458563,,,POINT (13.4621674 52.4694092),52.4694092,13.4621674,standalone,,"Grenzallee, 6, 12057, Berlin",Ing Diba,Neukölln,0801,Neukölln,11008008
+2190443256,24/7,,POINT (13.4102233 52.5282404),52.5282404,13.4102233,standalone,not accessible,"Rosa-Luxemburg-Straße, 10119, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+2208859580,,fee varies,POINT (13.5578798 52.5059439),52.5059439,13.5578798,standalone,accessible,"Weißenhöher Straße, 108, 12683, Berlin",Ing-Diba,Marzahn-Hellersdorf,1002,Biesdorf,11010010
+2208865955,,fee varies,POINT (13.5635807 52.5133143),52.5133143,13.5635807,standalone,accessible,"Wuhlgartenweg, 12683, Berlin",Ing,Marzahn-Hellersdorf,1002,Biesdorf,11010010
+2208875394,,fee varies,POINT (13.567667 52.5190878),52.5190878,13.567667,standalone,accessible,"Neue Allee, 12683, Berlin",Commerzbank Ag,Marzahn-Hellersdorf,1002,Biesdorf,11010010
+2301610395,,,POINT (13.3669496 52.5515966),52.5515966,13.3669496,standalone,accessible,"Schulstraße, 13347, Berlin",unknown_atm,Mitte,0105,Wedding,11001001
+2344859011,,,POINT (13.4311709 52.5149911),52.5149911,13.4311709,indoor,accessible,"Singerstraße, 29, 10243, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+2368313877,24/7,,POINT (13.377224 52.508313),52.508313,13.377224,standalone,not accessible,"Stresemannstraße, 10117, Berlin",Sparkasse Berlin,Mitte,0104,Tiergarten,11001001
+2375836466,24/7,,POINT (13.1982105 52.5341821),52.5341821,13.1982105,standalone,accessible,"Seegefelder Straße, 1, 13597, Berlin",Reisebank,Spandau,0501,Spandau,11005005
+2382033736,,no fee,POINT (13.3766685 52.4676214),52.4676214,13.3766685,standalone,,"Schöneberger Straße, 12103, Berlin",Ing-Diba,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+2382103138,,fee applies,POINT (13.4128701 52.5417605),52.5417605,13.4128701,standalone,accessible,"Pappelallee, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+2383000643,,fee varies,POINT (13.2940939 52.5794368),52.5794368,13.2940939,standalone,,"Berliner Straße, 13507, Berlin",Berliner Volksbank,Reinickendorf,1202,Tegel,11012012
+2387056583,,,POINT (13.3819159 52.4099932),52.4099932,13.3819159,standalone,accessible,"Buckower Chaussee, 12277, Berlin",Euronet,Tempelhof-Schöneberg,0705,Marienfelde,11007007
+2414640697,,,POINT (13.3442251 52.4386008),52.4386008,13.3442251,standalone,not accessible,"Leonorenstraße, 12247, Berlin",Berliner Volksbank,Steglitz-Zehlendorf,0603,Lankwitz,11006006
+2419330375,,,POINT (13.3730624 52.5589567),52.5589567,13.3730624,indoor,accessible,"Residenzstraße, 85, 13409, Berlin",Sparkasse,Mitte,0106,Gesundbrunnen,11001001
+2425964938,,,POINT (13.4301544 52.5861026),52.5861026,13.4301544,standalone,,"Pasewalker Straße, 110, 13127, Berlin",Ing-Diba,Pankow,0310,Französisch Buchholz,11003003
+2429873603,,,POINT (13.3513645 52.5505843),52.5505843,13.3513645,standalone,partially accessible,"Seestraße, 94, 13353, Berlin",Bankhaus August Lenz,Mitte,0105,Wedding,11001001
+2434824741,Mo-Fr 09:00-18:00,,POINT (13.3614501 52.5053282),52.5053282,13.3614501,standalone,not accessible,"Schöneberger Ufer, 10785, Berlin",Sparda-Bank Berlin,Mitte,0104,Tiergarten,11001001
+2436818505,,,POINT (13.3279052 52.4649837),52.4649837,13.3279052,standalone,accessible,"Walther-Schreiber-Platz, 1, 12161, Berlin",Berliner Volksbank,Tempelhof-Schöneberg,0702,Friedenau,11007007
+2468156903,,,POINT (13.3431454 52.5017789),52.5017789,13.3431454,standalone,not accessible,"Wittenbergplatz, 10789, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+2489620798,24/7,,POINT (13.4349782 52.4863536),52.4863536,13.4349782,standalone,,"Weserstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+2495556351,,,POINT (13.3898455 52.4895414),52.4895414,13.3898455,standalone,not accessible,"Bergmannstraße, 10961, Berlin",Iccash,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+2498835762,,,POINT (13.303986 52.5069242),52.5069242,13.303986,standalone,not accessible,"Kantstraße, 10627, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+2516254495,,,POINT (13.5842288 52.5148206),52.5148206,13.5842288,standalone,,"Gutenbergstraße, 12621, Berlin",Berliner Volksbank,Marzahn-Hellersdorf,1003,Kaulsdorf,11010010
+2516843329,,,POINT (13.4350925 52.4860504),52.4860504,13.4350925,standalone,not accessible,"Weichselstraße, 12045, Berlin",Cashzone,Neukölln,0801,Neukölln,11008008
+2541613610,24/7,,POINT (13.300805 52.5305041),52.5305041,13.300805,standalone,,"Gallesteig, 10589, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0406,Charlottenburg-Nord,11004004
+2562527985,,,POINT (13.5081506 52.4571302),52.4571302,13.5081506,standalone,accessible,"Schnellerstraße, 12439, Berlin",Berliner Volksbank,Treptow-Köpenick,0905,Niederschöneweide,11009009
+2567897670,,fee applies,POINT (13.5386603 52.5273848),52.5273848,13.5386603,standalone,,"Helene-Weigel-Platz, 1, 12681, Berlin",Berliner Volksbank,Marzahn-Hellersdorf,1001,Marzahn,11010010
+2596689841,24/7,,POINT (13.2996179 52.5392226),52.5392226,13.2996179,standalone,,"Heckerdamm, 13627, Berlin",Postbank,Charlottenburg-Wilmersdorf,0406,Charlottenburg-Nord,11004004
+2611034643,,,POINT (13.4449421 52.5337793),52.5337793,13.4449421,standalone,,"Kniprodestraße, 10407, Berlin",Berliner Volksbank,Pankow,0301,Prenzlauer Berg,11003003
+2624893673,24/7,,POINT (13.3321206 52.5061001),52.5061001,13.3321206,standalone,accessible,"Joachimsthaler Straße, 10623, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+2641521446,,,POINT (13.4269917 52.4994101),52.4994101,13.4269917,standalone,not accessible,"Skalitzer Straße, 10997, Berlin",Werther Bank,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+2642056468,,,POINT (13.4755635 52.4230498),52.4230498,13.4755635,standalone,,"Joachim-Gottschalk-Weg, 21, 12353, Berlin",Sparkasse,Neukölln,0805,Gropiusstadt,11008008
+2696505684,,,POINT (13.4507832 52.4892147),52.4892147,13.4507832,standalone,accessible,"Karl-Kunger-Straße, 44, 12435, Berlin",Volksbank,Treptow-Köpenick,0901,Alt-Treptow,11009009
+2700971593,24/7,,POINT (13.4115979 52.5669738),52.5669738,13.4115979,indoor,,"Florastraße, 13187, Berlin",Berliner Sparkasse,Pankow,0307,Pankow,11003003
+2723720954,,,POINT (13.3460693 52.5533099),52.5533099,13.3460693,standalone,partially accessible,"Müllerstraße, 13349, Berlin",Berliner Volksbank,Mitte,0105,Wedding,11001001
+2728834717,,,POINT (13.1885018 52.5374046),52.5374046,13.1885018,standalone,,"Seegefelder Straße, 13583, Berlin",Berliner Volksbank,Spandau,0501,Spandau,11005005
+2763458029,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.4711555 52.5302048),52.5302048,13.4711555,indoor,accessible,"Anton-Saefkow-Platz, 10369, Berlin",Ec,Lichtenberg,1111,Fennpfuhl,11011011
+2778844779,24/7,,POINT (13.3710752 52.4698799),52.4698799,13.3710752,standalone,accessible,"Schöneberger Straße, 12101, Berlin",Ing,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+2782835451,,,POINT (13.3260696 52.6077648),52.6077648,13.3260696,standalone,partially accessible,"Oraniendamm, 6-10, 13469, Berlin",Euronet Atm,Reinickendorf,1207,Waidmannslust,11012012
+2795454069,,,POINT (13.3384643 52.4635005),52.4635005,13.3384643,standalone,accessible,"Poschingerstraße, 15, 12157, Berlin",Berliner Sparkasse,Steglitz-Zehlendorf,0601,Steglitz,11006006
+2796267608,24/7,,POINT (13.4432287 52.4995791),52.4995791,13.4432287,standalone,not accessible,"Falckensteinstraße, 10997, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+2835567046,,,POINT (13.4389686 52.5404754),52.5404754,13.4389686,indoor,accessible,"Fußgängertunnel Greifswalder Straße, 10407, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+2836857301,,,POINT (13.4690635 52.5028416),52.5028416,13.4690635,standalone,accessible,"Hauptstraße, 10317, Berlin",Reisebank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+2850023401,,,POINT (13.354763 52.5991719),52.5991719,13.354763,standalone,partially accessible,"Senftenberger Ring, 17, 13439, Berlin",Deutsche Postbank Ag,Reinickendorf,1210,Märkisches Viertel,11012012
+2850024501,,,POINT (13.354791 52.5990076),52.5990076,13.354791,standalone,,"Senftenberger Ring, 17, 13439, Berlin",Postbank,Reinickendorf,1210,Märkisches Viertel,11012012
+2874762619,24/7,,POINT (13.3832393 52.5039661),52.5039661,13.3832393,standalone,accessible,"Stresemannstraße, 10963, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+2895594850,,,POINT (13.1967087 52.5256001),52.5256001,13.1967087,standalone,accessible,"Pichelsdorfer Straße, 121, 13595, Berlin",unknown_atm,Spandau,0509,Wilhelmstadt,11005005
+2899385819,,,POINT (13.2969435 52.5106654),52.5106654,13.2969435,indoor,not accessible,"Kaiserdamm, 14057, Berlin",Commerzbank,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+2900984444,,,POINT (13.3549769 52.4129996),52.4129996,13.3549769,standalone,accessible,"Hildburghauser Straße, 12279, Berlin",Berliner Volksbank,Tempelhof-Schöneberg,0705,Marienfelde,11007007
+2955511131,,,POINT (13.2807164 52.5083113),52.5083113,13.2807164,standalone,,"Bredtschneiderstraße, 14057, Berlin",Ing-Diba,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+2972025729,,,POINT (13.3857161 52.4660316),52.4660316,13.3857161,standalone,,"Tempelhofer Damm, 12099, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+3081666038,,,POINT (13.337844 52.4881878),52.4881878,13.337844,standalone,accessible,"Grunewaldstraße, 54, 10825, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+3084536200,24/7,,POINT (13.2070341 52.529406),52.529406,13.2070341,standalone,,"Ruhlebener Straße, 13597, Berlin",Volksbank,Spandau,0501,Spandau,11005005
+3128125465,,,POINT (13.3909962 52.5478425),52.5478425,13.3909962,standalone,accessible,"Ramlerstraße, 13355, Berlin",Ing,Mitte,0106,Gesundbrunnen,11001001
+3158507188,24/7,,POINT (13.2840017 52.5754993),52.5754993,13.2840017,standalone,partially accessible,"Bernauer Straße, 69-73, 13507, Berlin",Postbank,Reinickendorf,1202,Tegel,11012012
+3194288448,05:00-24:00,,POINT (13.2656563 52.4106222),52.4106222,13.2656563,standalone,partially accessible,"Andréezeile, 4a, 14165, Berlin",Berliner Sparkasse,Steglitz-Zehlendorf,0604,Zehlendorf,11006006
+3252726510,Mo-Sa 08:00-22:00,,POINT (13.4167244 52.5845225),52.5845225,13.4167244,indoor,accessible,"Blankenburger Straße, 81, 13156, Berlin",Berliner Volksbank,Pankow,0311,Niederschönhausen,11003003
+3255530743,24/7,,POINT (13.4245407 52.52849),52.52849,13.4245407,standalone,accessible,"Greifswalder Straße, 10405, Berlin",Berliner Sparkasse,Pankow,0301,Prenzlauer Berg,11003003
+3266501562,24/7,fee applies,POINT (13.5504931 52.4303592),52.4303592,13.5504931,standalone,accessible,"Adlergestell, 12489, Berlin",Berliner Volksbank,Treptow-Köpenick,0907,Adlershof,11009009
+3296728802,Mo-Sa 07:00-22:00,,POINT (13.5879809 52.4416229),52.4416229,13.5879809,standalone,accessible,"Pablo-Neruda-Straße, 12559, Berlin",Postbank,Treptow-Köpenick,0910,Köpenick,11009009
+3300100066,,,POINT (13.4530799 52.5915164),52.5915164,13.4530799,indoor,accessible,"Bahnhofstraße, 13129, Berlin",Berliner Volksbank,Pankow,0303,Blankenburg,11003003
+3307308279,,,POINT (13.6210011 52.5303935),52.5303935,13.6210011,standalone,accessible,"Riesaer Straße, 102, 12627, Berlin",unknown_atm,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+3309688061,,,POINT (13.3362744 52.5057156),52.5057156,13.3362744,standalone,accessible,"Budapester Straße, 10787, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+3327848796,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3401919 52.5265564),52.5265564,13.3401919,standalone,accessible,"Turmstraße, 10551, Berlin",Berliner Sparkasse,Mitte,0102,Moabit,11001001
+3347781733,,,POINT (13.3817054 52.5137095),52.5137095,13.3817054,standalone,not accessible,"Wilhelmstraße, 82, 10117, Berlin",Sparda-Bank Berlin,Mitte,0101,Mitte,11001001
+3354252145,,fee varies,POINT (13.3906054 52.5061318),52.5061318,13.3906054,standalone,partially accessible,"Friedrichstraße, 10969, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+3354252146,,fee varies,POINT (13.3884412 52.4939287),52.4939287,13.3884412,indoor,not accessible,"Mehringdamm, 10961, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+3377697124,,,POINT (13.2908315 52.4578748),52.4578748,13.2908315,standalone,,"Königin-Luise-Straße, 14195, Berlin",Berliner Volksbank,Steglitz-Zehlendorf,0605,Dahlem,11006006
+3380514460,24/7,,POINT (13.4177253 52.5465579),52.5465579,13.4177253,standalone,accessible,"Stargarder Straße, 14, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+3388516426,,,POINT (13.3493298 52.4811741),52.4811741,13.3493298,standalone,,"Dominicusstraße, 40, 10827, Berlin",Euronet Worldwide,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+3391907615,24/7,,POINT (13.2874796 52.4956919),52.4956919,13.2874796,standalone,not accessible,"Kurfürstendamm, 10711, Berlin",Ing-Diba,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+3442988809,,,POINT (13.4022881 52.5247561),52.5247561,13.4022881,standalone,not accessible,"Sophienstraße, 10178, Berlin",Vöb-Zvd Bank,Mitte,0101,Mitte,11001001
+3448398798,,,POINT (13.3464046 52.4800775),52.4800775,13.3464046,indoor,not accessible,"Hauptstraße, 10827, Berlin",Volksbank,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+3465129462,,,POINT (13.3445312 52.5317615),52.5317615,13.3445312,indoor,accessible,"Birkenstraße, 10559, Berlin",Berliner Sparkasse,Mitte,0102,Moabit,11001001
+3502579188,,,POINT (13.5715093 52.4126756),52.4126756,13.5715093,standalone,,"Bruno-Taut-Straße, 12524, Berlin",Sparkassen-Finanzgruppe,Treptow-Köpenick,0908,Bohnsdorf,11009009
+3518024339,,,POINT (13.4192487 52.5397323),52.5397323,13.4192487,standalone,not accessible,"Danziger Straße, 10435, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+3522336606,,,POINT (13.4488965 52.5648873),52.5648873,13.4488965,standalone,,"Wischbergeweg, 13089, Berlin",Ing,Pankow,0304,Heinersdorf,11003003
+3525872276,24/7,,POINT (13.4234196 52.5372097),52.5372097,13.4234196,standalone,accessible,"Christburger Straße, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+3530617023,24/7,,POINT (13.5252996 52.4921447),52.4921447,13.5252996,standalone,accessible,"Römerweg, 10318, Berlin",Berliner Sparkasse,Lichtenberg,1102,Karlshorst,11011011
+3533869693,Mo-Sa 07:00-21:00,,POINT (13.446307 52.5534366),52.5534366,13.446307,indoor,,"Pistoriusstraße, 13086, Berlin",Postbank,Pankow,0302,Weißensee,11003003
+3553158017,24/7,,POINT (13.370223 52.422697),52.422697,13.370223,indoor,,"Hranitzkystraße, 12277, Berlin",Sparkasse,Tempelhof-Schöneberg,0705,Marienfelde,11007007
+3587654939,,,POINT (13.4381815 52.4999147),52.4999147,13.4381815,standalone,,"Wrangelstraße, 10997, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+3610726360,,,POINT (13.3313836 52.503629),52.503629,13.3313836,standalone,accessible,"Joachimsthaler Straße, 10719, Berlin",Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+3611038507,,,POINT (13.4291731 52.4946431),52.4946431,13.4291731,standalone,,"Ohlauer Straße, 10999, Berlin",Euronet Atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+3612722044,24/7,,POINT (13.6444317 52.378638),52.378638,13.6444317,standalone,,"Adlergestell, 748, 12527, Berlin",Ing Diba,Treptow-Köpenick,0915,Schmöckwitz,11009009
+3614955201,,,POINT (13.4149111 52.5408557),52.5408557,13.4149111,standalone,,"Danziger Straße, 10435, Berlin",unknown_atm,Pankow,0301,Prenzlauer Berg,11003003
+3626935770,,,POINT (13.4525355 52.5198924),52.5198924,13.4525355,standalone,not accessible,"Petersburger Straße, 10249, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+3633286736,24/7,,POINT (13.365831 52.5036059),52.5036059,13.365831,standalone,not accessible,"Potsdamer Straße, 82, 10785, Berlin",Euronet,Mitte,0104,Tiergarten,11001001
+3636993699,24/7,,POINT (13.4454775 52.4858758),52.4858758,13.4454775,indoor,not accessible,"Wildenbruchstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+3673269311,24/7,,POINT (13.1429541 52.4529527),52.4529527,13.1429541,standalone,accessible,"Sakrower Landstraße, 1A, 14089, Berlin",Postbank,Spandau,0506,Kladow,11005005
+3677477182,,,POINT (13.20841 52.5565075),52.5565075,13.20841,indoor,accessible,"Streitstraße, 13587, Berlin",Deutsche Bank,Spandau,0507,Hakenfelde,11005005
+3680397714,24/7,,POINT (13.4071723 52.5470094),52.5470094,13.4071723,standalone,not accessible,"Gleimstraße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+3683023913,,,POINT (13.3594241 52.5465192),52.5465192,13.3594241,standalone,accessible,"Bahnsteig U6, 13353, Berlin",unknown_atm,Mitte,0105,Wedding,11001001
+3714770731,24/7,,POINT (13.3967176 52.4232592),52.4232592,13.3967176,standalone,,"Mariendorfer Damm, 341, 12107, Berlin",Ingdiba,Tempelhof-Schöneberg,0704,Mariendorf,11007007
+3741407037,,,POINT (13.3361038 52.5137852),52.5137852,13.3361038,standalone,accessible,"Straße des 17. Juni, 10555, Berlin",Euronet,Mitte,0104,Tiergarten,11001001
+3799527256,,,POINT (13.3242955 52.4985049),52.4985049,13.3242955,standalone,,"Uhlandstraße, 10719, Berlin",Cashzone,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+3813153871,,,POINT (13.413823 52.538713),52.538713,13.413823,standalone,accessible,"Sredzkistraße, 10435, Berlin",Postbank,Pankow,0301,Prenzlauer Berg,11003003
+3823225893,,,POINT (13.4184793 52.5146268),52.5146268,13.4184793,standalone,,"Alexanderstraße, 10179, Berlin",Cashzone,Mitte,0101,Mitte,11001001
+3826453511,,,POINT (13.3494208 52.4980102),52.4980102,13.3494208,standalone,accessible,"Eisenacher Straße, 9, 10777, Berlin",Eurocash,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+3837623737,,,POINT (13.3639085 52.5014096),52.5014096,13.3639085,standalone,accessible,"Potsdamer Straße, 102, 10785, Berlin",Vöb,Mitte,0104,Tiergarten,11001001
+3844737589,24/7,,POINT (13.3656711 52.4756422),52.4756422,13.3656711,standalone,accessible,"General-Pape-Straße, 1, 12101, Berlin",Vöb-Zvd Processing GmbH,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+3846200823,,,POINT (13.4353114 52.5095005),52.5095005,13.4353114,standalone,accessible,"Am Ostbahnhof, 9, 10243, Berlin",Reisebank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+3850410857,,,POINT (13.5188808 52.5227641),52.5227641,13.5188808,standalone,,"Rhinstraße, 12681, Berlin",Ing Diba,Lichtenberg,1103,Lichtenberg,11011011
+3862836920,,,POINT (13.3077002 52.5010583),52.5010583,13.3077002,standalone,accessible,"Wilmersdorfer Straße, 10629, Berlin",Bankhaus August Lenz,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+3864828672,,,POINT (13.3285045 52.4653247),52.4653247,13.3285045,standalone,accessible,"Bundesallee, 12161, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0702,Friedenau,11007007
+3875852996,,,POINT (13.4178814 52.5441808),52.5441808,13.4178814,standalone,not accessible,"Lychener Straße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+3898818523,,,POINT (13.4275266 52.5318309),52.5318309,13.4275266,standalone,accessible,"Greifswalder Straße, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+3928284433,,,POINT (13.3614792 52.4914474),52.4914474,13.3614792,indoor,accessible,"Großgörschenstraße, 10827, Berlin",Sparkasse,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+3937877338,24/7,,POINT (13.3946909 52.5321888),52.5321888,13.3946909,standalone,not accessible,"Invalidenstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+3986643070,,,POINT (13.4659101 52.5144136),52.5144136,13.4659101,standalone,not accessible,"Frankfurter Allee, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4005957111,,,POINT (13.3885146 52.5318934),52.5318934,13.3885146,standalone,not accessible,"Elisabeth-Schwarzhaupt-Platz, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4008856537,,,POINT (13.3803652 52.5297078),52.5297078,13.3803652,indoor,accessible,"Invalidenstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4023131746,24/7,,POINT (13.4133478 52.5221184),52.5221184,13.4133478,standalone,,"10178, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+4023131747,24/7,,POINT (13.4325384 52.5525332),52.5525332,13.4325384,standalone,,"Gustav-Adolf-Straße, 13086, Berlin",Diebold Nixdorf,Pankow,0302,Weißensee,11003003
+4024075041,24/7,,POINT (13.4362521 52.4799527),52.4799527,13.4362521,standalone,not accessible,"Karl-Marx-Straße, 92-98, 12043, Berlin",Iccash,Neukölln,0801,Neukölln,11008008
+4029444562,,,POINT (13.3249918 52.4553557),52.4553557,13.3249918,standalone,,"Schützenstraße, 12165, Berlin",Euronet Worldwide,Steglitz-Zehlendorf,0601,Steglitz,11006006
+4039966237,,,POINT (13.4015001 52.5302928),52.5302928,13.4015001,standalone,not accessible,"Weinbergsweg, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4039969729,,,POINT (13.3992546 52.5237402),52.5237402,13.3992546,standalone,accessible,"Oranienburger Straße, 10178, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4061391773,24/7,,POINT (13.3052574 52.5127167),52.5127167,13.3052574,standalone,,"Wilmersdorfer Straße, 10585, Berlin",IC Cash Services,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+4072586086,,,POINT (13.3326086 52.5065032),52.5065032,13.3326086,standalone,accessible,"Hardenbergplatz, 10623, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+4090296503,24/7,,POINT (13.3686484 52.5253234),52.5253234,13.3686484,indoor,partially accessible,"Eingangsebene, 10557, Berlin",Reisebank,Mitte,0102,Moabit,11001001
+4095732758,,,POINT (13.395683 52.5383015),52.5383015,13.395683,standalone,not accessible,"Bernauer Straße, 10115, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+4097103472,,,POINT (13.3690959 52.5247664),52.5247664,13.3690959,indoor,partially accessible,"Eingangsebene, 10557, Berlin",Reisebank,Mitte,0102,Moabit,11001001
+4116107896,24/7,,POINT (13.4530302 52.5125821),52.5125821,13.4530302,standalone,accessible,"Warschauer Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4120701560,,,POINT (13.4151183 52.5196217),52.5196217,13.4151183,standalone,accessible,"Grunerstraße, 20, 10179, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+4135618750,24/7,,POINT (13.4029077 52.540379),52.540379,13.4029077,standalone,not accessible,"Bernauer Straße, 13355, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+4153078583,24/7,,POINT (13.4653276 52.5171704),52.5171704,13.4653276,indoor,not accessible,"Samariterstraße, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4160102555,,,POINT (13.3895692 52.5356),52.5356,13.3895692,standalone,not accessible,"Bernauer Straße, 115-118, 13355, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+4167934115,,,POINT (13.3353842 52.5956369),52.5956369,13.3353842,indoor,partially accessible,"Wilhelmsruher Damm, 13435, Berlin",unknown_atm,Reinickendorf,1209,Wittenau,11012012
+4171310012,,,POINT (13.3215001 52.5016857),52.5016857,13.3215001,standalone,not accessible,"Kurfürstendamm, 10719, Berlin",Iccash Services,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+4172663100,,,POINT (13.41085 52.5316676),52.5316676,13.41085,indoor,partially accessible,"Schönhauser Allee, 10119, Berlin",Cardpoint,Pankow,0301,Prenzlauer Berg,11003003
+4192832327,,,POINT (13.3885057 52.5318612),52.5318612,13.3885057,standalone,not accessible,"Elisabeth-Schwarzhaupt-Platz, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4195145989,24/7,,POINT (13.4153084 52.531614),52.531614,13.4153084,standalone,accessible,"Metzer Straße, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4196759933,,,POINT (13.3621471 52.5270494),52.5270494,13.3621471,indoor,accessible,"Seydlitzstraße, 10557, Berlin",IC Cash Services,Mitte,0102,Moabit,11001001
+4221184804,,,POINT (13.4161061 52.5186621),52.5186621,13.4161061,standalone,accessible,"Dircksenstraße, 10178, Berlin",Postbank,Mitte,0101,Mitte,11001001
+4222272403,,,POINT (13.3843279 52.5309786),52.5309786,13.3843279,standalone,accessible,"Invalidenstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4242814546,,,POINT (13.4131601 52.5309669),52.5309669,13.4131601,indoor,not accessible,"Saarbrücker Straße, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4250621604,24/7,,POINT (13.4654996 52.5167444),52.5167444,13.4654996,standalone,accessible,"Samariterstraße, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4258414356,,,POINT (13.200009 52.5358463),52.5358463,13.200009,standalone,accessible,"Altstädter Ring, 13597, Berlin",Sparkasse,Spandau,0501,Spandau,11005005
+4261243655,24/7,,POINT (13.4547281 52.4742578),52.4742578,13.4547281,standalone,,"Sonnenallee, 212, 12059, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+4269744603,24/7,,POINT (13.3788141 52.5258381),52.5258381,13.3788141,standalone,accessible,"Charitéplatz, 1, 10117, Berlin",Sparkasse,Mitte,0101,Mitte,11001001
+4274067222,,,POINT (13.4403004 52.4738517),52.4738517,13.4403004,standalone,,"Thomasstraße, 12053, Berlin",Postbank,Neukölln,0801,Neukölln,11008008
+4274069697,,,POINT (13.441042 52.473294),52.473294,13.441042,standalone,,"Karl-Marx-Straße, 12055, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+4294813356,,,POINT (13.3693058 52.5243865),52.5243865,13.3693058,indoor,partially accessible,"Eingangsebene, 10557, Berlin",Reisebank,Mitte,0102,Moabit,11001001
+4294825321,24/7,,POINT (13.3692712 52.5246908),52.5246908,13.3692712,standalone,accessible,"Eingangsebene, 10557, Berlin",Reisebank,Mitte,0102,Moabit,11001001
+4294834720,24/7,,POINT (13.369808 52.5251697),52.5251697,13.369808,standalone,accessible,"Eingangsebene, 10557, Berlin",Reisebank,Mitte,0102,Moabit,11001001
+4317462786,,,POINT (13.3922228 52.5427913),52.5427913,13.3922228,standalone,,"Brunnenstraße, 13355, Berlin",unknown_atm,Mitte,0106,Gesundbrunnen,11001001
+4317555804,,,POINT (13.3888542 52.5496038),52.5496038,13.3888542,standalone,partially accessible,"Behmstraße, 13357, Berlin",Postbank,Mitte,0106,Gesundbrunnen,11001001
+4317555805,,,POINT (13.388855 52.5496132),52.5496132,13.388855,standalone,partially accessible,"Behmstraße, 13357, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+4321142339,,,POINT (13.357672 52.5355032),52.5355032,13.357672,standalone,partially accessible,"Lehrter Straße, 10557, Berlin",Euronet,Mitte,0102,Moabit,11001001
+4325599889,,,POINT (13.349311 52.5416987),52.5416987,13.349311,standalone,,"Föhrer Straße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+4333905820,,,POINT (13.4360934 52.4936867),52.4936867,13.4360934,standalone,,"Reichenberger Straße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+4336877113,,,POINT (13.4391841 52.5248719),52.5248719,13.4391841,standalone,,"Landsberger Allee, 49, 10249, Berlin",Cashzone,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4339053537,,,POINT (13.3695571 52.5464458),52.5464458,13.3695571,standalone,,"Reinickendorfer Straße, 13347, Berlin",Euronet,Mitte,0105,Wedding,11001001
+4339053540,24/7,,POINT (13.3682611 52.5504632),52.5504632,13.3682611,standalone,,"Reinickendorfer Straße, 13347, Berlin",Iccash,Mitte,0106,Gesundbrunnen,11001001
+4341306554,,,POINT (13.2994611 52.4949969),52.4949969,13.2994611,standalone,partially accessible,"Westfälische Straße, 10709, Berlin",Euronet,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+4354056195,,,POINT (13.476139 52.5142897),52.5142897,13.476139,indoor,accessible,"Frankfurter Allee, 113, 10365, Berlin",Ing,Lichtenberg,1103,Lichtenberg,11011011
+4357762784,24/7,,POINT (13.4339292 52.5101665),52.5101665,13.4339292,standalone,accessible,"Am Ostbahnhof, 10243, Berlin",Volksbank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4357762785,24/7,,POINT (13.4336095 52.5102927),52.5102927,13.4336095,standalone,accessible,"Am Ostbahnhof, 5, 10243, Berlin",Reisebank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4358015789,,,POINT (13.4423185 52.469295),52.469295,13.4423185,standalone,,"Saalestraße, 12055, Berlin",Cashzone,Neukölln,0801,Neukölln,11008008
+4361296725,,,POINT (13.4473939 52.4783063),52.4783063,13.4473939,standalone,partially accessible,"Sonnenallee, 12059, Berlin",Bankhaus August Lenz,Neukölln,0801,Neukölln,11008008
+4375796145,,,POINT (13.2833129 52.5906149),52.5906149,13.2833129,standalone,,"Berliner Straße, 13507, Berlin",Euronet,Reinickendorf,1202,Tegel,11012012
+4382043049,,,POINT (13.3279834 52.4653139),52.4653139,13.3279834,standalone,accessible,"Walther-Schreiber-Platz, 1, 12161, Berlin",Euronet,Tempelhof-Schöneberg,0702,Friedenau,11007007
+4395354795,,,POINT (13.3887482 52.4899662),52.4899662,13.3887482,standalone,accessible,"Bergmannstraße, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+4396180489,,,POINT (13.6624959 52.4123139),52.4123139,13.6624959,standalone,accessible,"Alt-Müggelheim, 12559, Berlin",Berliner Sparkasse,Treptow-Köpenick,0914,Müggelheim,11009009
+4403482397,,,POINT (13.4101043 52.5244086),52.5244086,13.4101043,standalone,,"Rosa-Luxemburg-Straße, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4404116889,,,POINT (13.3253936 52.5217865),52.5217865,13.3253936,indoor,accessible,"Helmholtzstraße, 10587, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+4411267179,24/7,,POINT (13.309018 52.5089997),52.5089997,13.309018,standalone,accessible,"Goethestraße, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+4412304412,,,POINT (13.3099003 52.5077468),52.5077468,13.3099003,standalone,partially accessible,"Pestalozzistraße, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+4419870144,,,POINT (13.3887527 52.5272698),52.5272698,13.3887527,standalone,partially accessible,"Torstraße, 10115, Berlin",Bankhaus August Lenz,Mitte,0101,Mitte,11001001
+4436523401,24/7,,POINT (13.430571 52.4858),52.4858,13.430571,standalone,not accessible,"Sonnenallee, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+4437629391,24/7,,POINT (13.3899611 52.5099566),52.5099566,13.3899611,standalone,not accessible,"Friedrichstraße, 10117, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+4439780519,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.4957858 52.6349982),52.6349982,13.4957858,standalone,accessible,"Wiltbergstraße, 13125, Berlin",1,Pankow,0309,Buch,11003003
+4457967204,24/7,,POINT (13.4088472 52.5411441),52.5411441,13.4088472,indoor,not accessible,"Eberswalder Straße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4457967931,24/7,,POINT (13.4058532 52.5407282),52.5407282,13.4058532,standalone,not accessible,"Eberswalder Straße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4458876192,,,POINT (13.3537379 52.498869),52.498869,13.3537379,standalone,accessible,"Maaßenstraße, 10777, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4484407089,,,POINT (13.4288446 52.499144),52.499144,13.4288446,indoor,not accessible,"Skalitzer Straße, 10997, Berlin",Ec,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+4485113697,,,POINT (13.4259629 52.4854148),52.4854148,13.4259629,standalone,,"Karl-Marx-Straße, 12043, Berlin",Bankhaus August Lenz,Neukölln,0801,Neukölln,11008008
+4491401411,24/7,,POINT (13.4328269 52.4885322),52.4885322,13.4328269,standalone,accessible,"Pannierstraße, 12047, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+4508707286,,,POINT (13.4132497 52.559208),52.559208,13.4132497,standalone,,"Berliner Straße, 13189, Berlin",Sparkasse,Pankow,0307,Pankow,11003003
+4510168389,,,POINT (13.4658912 52.5253259),52.5253259,13.4658912,indoor,partially accessible,"Franz-Jacob-Straße, 4, 10369, Berlin",unknown_atm,Lichtenberg,1111,Fennpfuhl,11011011
+4518915900,,,POINT (13.3426036 52.5010096),52.5010096,13.3426036,standalone,not accessible,"Wittenbergplatz, 10777, Berlin",Euronet Worldwide,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4523480574,,,POINT (13.4971736 52.5094841),52.5094841,13.4971736,standalone,,"Eitelstraße, 10317, Berlin",Volksbank,Lichtenberg,1112,Rummelsburg,11011011
+4524916096,24/7,,POINT (13.4678528 52.5046264),52.5046264,13.4678528,standalone,not accessible,"Sonntagstraße, 10245, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4530241256,,,POINT (13.3134968 52.4793656),52.4793656,13.3134968,standalone,,"Detmolder Straße, 10713, Berlin",Berliner Volksbank,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+4533857106,,,POINT (13.4588916 52.5127033),52.5127033,13.4588916,indoor,partially accessible,"Boxhagener Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4533868091,,,POINT (13.4600581 52.5147566),52.5147566,13.4600581,standalone,accessible,"Niederbarnimstraße, 26, 10247, Berlin",Postbank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4533984359,,,POINT (13.3729114 52.4786755),52.4786755,13.3729114,indoor,,"Wüsthoffstraße, 15, 12101, Berlin",Berliner Volksbank,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+4534097108,,,POINT (13.466378 52.5083507),52.5083507,13.466378,standalone,,"Boxhagener Straße, 10245, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4534110450,,,POINT (13.4612109 52.5109227),52.5109227,13.4612109,indoor,,"Grünberger Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4534560010,24/7,,POINT (13.3779234 52.5224298),52.5224298,13.3779234,standalone,,"Reinhardtstraße, 10117, Berlin",Apobank,Mitte,0101,Mitte,11001001
+4549220834,24/7,,POINT (13.4549884 52.5072909),52.5072909,13.4549884,standalone,accessible,"Revaler Straße, 10245, Berlin",Reisebank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4549220835,24/7,,POINT (13.4512875 52.5082893),52.5082893,13.4512875,standalone,accessible,"Revaler Straße, 10243, Berlin",Reisebank Ag,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4557534859,,,POINT (13.4099348 52.5193869),52.5193869,13.4099348,standalone,partially accessible,"Rathausstraße, 1-14, 10178, Berlin",Iccash Services,Mitte,0101,Mitte,11001001
+4590984979,24/7,,POINT (13.4416017 52.4693999),52.4693999,13.4416017,standalone,accessible,"Karl-Marx-Straße, 12055, Berlin",Berliner Sparkasse,Neukölln,0801,Neukölln,11008008
+4592721019,,,POINT (13.3490595 52.5419294),52.5419294,13.3490595,standalone,,"Föhrer Straße, 13353, Berlin",Cashzone,Mitte,0105,Wedding,11001001
+4596544290,,,POINT (13.3439831 52.4787473),52.4787473,13.3439831,standalone,not accessible,"Wexstraße, 10825, Berlin",Cashzone,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4610077679,24/7,,POINT (13.4224696 52.6071089),52.6071089,13.4224696,standalone,,"Rosenthaler Weg, 13127, Berlin",Volksbank,Pankow,0310,Französisch Buchholz,11003003
+4625226255,,,POINT (13.4107408 52.519693),52.519693,13.4107408,standalone,accessible,"Rathausstraße, 1-14, 10178, Berlin",Berliner Volksbank,Mitte,0101,Mitte,11001001
+4634187340,,,POINT (13.3417093 52.5323851),52.5323851,13.3417093,standalone,partially accessible,"Birkenstraße, 10551, Berlin",Bankhaus August Lenz,Mitte,0102,Moabit,11001001
+4693326004,,,POINT (13.4309749 52.487095),52.487095,13.4309749,standalone,accessible,"Pannierstraße, 56, 12047, Berlin",Bankhaus August Lenz,Neukölln,0801,Neukölln,11008008
+4698914146,,,POINT (13.5270938 52.4588636),52.4588636,13.5270938,standalone,,"Rathenaustraße, 12459, Berlin",unknown_atm,Treptow-Köpenick,0909,Oberschöneweide,11009009
+4698920334,,,POINT (13.5269664 52.4584027),52.4584027,13.5269664,standalone,,"Rathenaustraße, 12459, Berlin",unknown_atm,Treptow-Köpenick,0909,Oberschöneweide,11009009
+4706841102,24/7,,POINT (13.4009106 52.529946),52.529946,13.4009106,standalone,not accessible,"Brunnenstraße, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4706865249,,,POINT (13.4010931 52.5294831),52.5294831,13.4010931,indoor,not accessible,"Torstraße, 10119, Berlin",IC Cash Services,Mitte,0101,Mitte,11001001
+4715187591,24/7,,POINT (13.6248647 52.4546804),52.4546804,13.6248647,indoor,,"Bölschestraße, 12587, Berlin",Hypovereinsbank,Treptow-Köpenick,0911,Friedrichshagen,11009009
+4718259839,,,POINT (13.449486 52.5222331),52.5222331,13.449486,standalone,accessible,"Straßmannstraße, 10249, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4724701016,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.4321483 52.6051158),52.6051158,13.4321483,indoor,,"Hauptstraße, 13127, Berlin",Berliner Sparkasse,Pankow,0310,Französisch Buchholz,11003003
+4724758046,06:00-23:00,,POINT (13.3587126 52.5475586),52.5475586,13.3587126,indoor,not accessible,"Nazarethkirchstraße, 51, 13347, Berlin",Berliner Sparkasse,Mitte,0105,Wedding,11001001
+4726776648,24/7,,POINT (13.2596465 52.4329331),52.4329331,13.2596465,indoor,accessible,"Teltower Damm, 14169, Berlin",Berliner Sparkasse,Steglitz-Zehlendorf,0604,Zehlendorf,11006006
+4726869581,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.2948199 52.4742727),52.4742727,13.2948199,indoor,,"Breite Straße, 14199, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0403,Schmargendorf,11004004
+4728305580,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.4223436 52.5614761),52.5614761,13.4223436,indoor,accessible,"Neumannstraße, 13189, Berlin",Berliner Sparkasse,Pankow,0307,Pankow,11003003
+4748968521,,,POINT (13.3616037 52.4841842),52.4841842,13.3616037,standalone,,"Leberstraße, 10829, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4753995321,24/7,,POINT (13.3613694 52.4969164),52.4969164,13.3613694,standalone,partially accessible,"Potsdamer Straße, 10783, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4773334139,,,POINT (13.4113228 52.5036614),52.5036614,13.4113228,standalone,,"Oranienstraße, 10969, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+4791346913,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,fee varies,POINT (13.2974212 52.4426598),52.4426598,13.2974212,indoor,accessible,"Gardeschützenweg, 12205, Berlin",Berliner Sparkasse,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+4797029901,,,POINT (13.4206024 52.5485081),52.5485081,13.4206024,standalone,accessible,"Stahlheimer Straße, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4804156416,24/7,,POINT (13.300445 52.5304705),52.5304705,13.300445,standalone,,"Max-Dohrn-Straße, 10589, Berlin",Reisebank,Charlottenburg-Wilmersdorf,0406,Charlottenburg-Nord,11004004
+4815958447,24/7,,POINT (13.3613798 52.4969534),52.4969534,13.3613798,standalone,not accessible,"Potsdamer Straße, 150, 10783, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4815962792,,,POINT (13.3602053 52.4961896),52.4961896,13.3602053,standalone,,"Winterfeldtstraße, 10781, Berlin",unknown_atm,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4821450682,,,POINT (13.5277089 52.4249712),52.4249712,13.5277089,standalone,,"Semmelweisstraße, 102, 12524, Berlin",Ing,Treptow-Köpenick,0906,Altglienicke,11009009
+4821450683,,,POINT (13.5276001 52.424657),52.424657,13.5276001,standalone,accessible,"Semmelweisstraße, 100, 12524, Berlin",Berliner Sparkasse,Treptow-Köpenick,0906,Altglienicke,11009009
+4838931463,24/7,,POINT (13.3525124 52.4801618),52.4801618,13.3525124,standalone,,"Dominicusstraße, 10827, Berlin",IC Cash Services,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4850607593,,,POINT (13.4343269 52.5098269),52.5098269,13.4343269,standalone,,"Am Ostbahnhof, 10243, Berlin",Reisebank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4855559409,24/7,,POINT (13.5261438 52.4016185),52.4016185,13.5261438,standalone,accessible,"Siriusstraße, 12524, Berlin",Berliner Volksbank,Treptow-Köpenick,0906,Altglienicke,11009009
+4856007423,,,POINT (13.4186974 52.5404686),52.5404686,13.4186974,indoor,accessible,"Dunckerstraße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4871936538,,,POINT (13.3900775 52.5120176),52.5120176,13.3900775,standalone,,"Anton-Wilhelm-Amo-Straße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4872205863,24/7,,POINT (13.2409234 52.4426797),52.4426797,13.2409234,standalone,accessible,"Fischerhüttenstraße, 89, 14163, Berlin",Berliner Volksbank,Steglitz-Zehlendorf,0604,Zehlendorf,11006006
+4894518410,06:00-22:00,,POINT (13.5759202 52.4471011),52.4471011,13.5759202,standalone,not accessible,"Freiheit, 1, 12555, Berlin",Berliner Volksbank,Treptow-Köpenick,0910,Köpenick,11009009
+4895531621,24/7,,POINT (13.4546808 52.5295655),52.5295655,13.4546808,standalone,,"Storkower Straße, 10407, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+4903605309,Mo-Sa 07:00-21:00,,POINT (13.365147 52.560709),52.560709,13.365147,indoor,accessible,"Markstraße, 34, 13409, Berlin",Postbank,Reinickendorf,1201,Reinickendorf,11012012
+4904448321,,,POINT (13.3630586 52.4852299),52.4852299,13.3630586,standalone,,"Kolonnenstraße, 10829, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+4907985267,,,POINT (13.3254546 52.4556015),52.4556015,13.3254546,standalone,,"Albrechtstraße, 12165, Berlin",Note Machine,Steglitz-Zehlendorf,0601,Steglitz,11006006
+4908049909,24/7,,POINT (13.4549223 52.5119453),52.5119453,13.4549223,standalone,not accessible,"Grünberger Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4908049917,,,POINT (13.4579492 52.5099987),52.5099987,13.4579492,standalone,,"Gabriel-Max-Straße, 20, 10245, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+4909080220,,,POINT (13.5510388 52.5452375),52.5452375,13.5510388,standalone,,"Marzahner Promenade, 12679, Berlin",Berliner Volksbank,Marzahn-Hellersdorf,1001,Marzahn,11010010
+4910168764,24/7,,POINT (13.4143856 52.5076885),52.5076885,13.4143856,standalone,,"Annenstraße, 10179, Berlin",Sparkasse,Mitte,0101,Mitte,11001001
+4914807610,24/7,,POINT (13.4092855 52.5289792),52.5289792,13.4092855,standalone,accessible,"Torstraße, 10119, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4914810015,24/7,,POINT (13.386932 52.51658),52.51658,13.386932,standalone,,"Unter den Linden, 41, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4920122816,,,POINT (13.411388 52.571574),52.571574,13.411388,indoor,,"Breite Straße, 4B, 13187, Berlin",Commerzbank,Pankow,0307,Pankow,11003003
+4930595524,,,POINT (13.416538 52.549581),52.549581,13.416538,standalone,partially accessible,"Schönhauser Allee, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4931555308,,,POINT (13.416683 52.549516),52.549516,13.416683,standalone,partially accessible,"Greifenhagener Straße, 10437, Berlin",Postbank,Pankow,0301,Prenzlauer Berg,11003003
+4940712146,,,POINT (13.4041176 52.5113105),52.5113105,13.4041176,standalone,,"Wallstraße, 10179, Berlin",unknown_atm,Mitte,0101,Mitte,11001001
+4946188506,24/7,,POINT (13.4116814 52.5474174),52.5474174,13.4116814,standalone,not accessible,"Gleimstraße, 26, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4946191839,24/7,,POINT (13.410963 52.528713),52.528713,13.410963,standalone,not accessible,"Torstraße, 43, 10119, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4946850775,,,POINT (13.4300817 52.4951308),52.4951308,13.4300817,standalone,,"Ohlauer Straße, 10999, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+4952103385,,,POINT (13.3152664 52.4447799),52.4447799,13.3152664,standalone,accessible,"Hindenburgdamm, 85, 12203, Berlin",Euronet,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+4958967835,24/7,,POINT (13.390376 52.5064),52.5064,13.390376,standalone,partially accessible,"Friedrichstraße, 210, 10969, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+4960581939,24/7,,POINT (13.410986 52.530749),52.530749,13.410986,standalone,not accessible,"Schönhauser Allee, 180, 10119, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4960582721,24/7,,POINT (13.410197 52.529443),52.529443,13.410197,standalone,not accessible,"Schönhauser Allee, 5, 10119, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+4961100468,24/7,,POINT (13.6246769 52.5302679),52.5302679,13.6246769,standalone,not accessible,"Riesaer Straße, 12627, Berlin",Berliner Volksbank,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+4973991473,,,POINT (13.4178032 52.5133079),52.5133079,13.4178032,standalone,,"Brückenstraße, 10179, Berlin",Euronet,Mitte,0101,Mitte,11001001
+4974288159,,,POINT (13.328454 52.5281894),52.5281894,13.328454,standalone,accessible,"Beusselstraße, 10553, Berlin",Euronet,Mitte,0102,Moabit,11001001
+5001796523,,,POINT (13.456007 52.5091558),52.5091558,13.456007,standalone,accessible,"Simon-Dach-Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5003065125,,,POINT (13.3298091 52.5055495),52.5055495,13.3298091,standalone,accessible,"Kantstraße, 7-11a, 10623, Berlin",IC Cash Services,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5016204822,24/7,,POINT (13.5733254 52.4132465),52.4132465,13.5733254,standalone,,"Richterstraße, 12527, Berlin",Euronet Worldwide,Treptow-Köpenick,0913,Grünau,11009009
+5034396390,24/7,,POINT (13.4202464 52.4954671),52.4954671,13.4202464,standalone,accessible,"Graefestraße, 93, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5034399726,24/7,,POINT (13.4203062 52.4953058),52.4953058,13.4203062,standalone,not accessible,"Kottbusser Damm, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5037616322,,,POINT (13.3502792 52.4866146),52.4866146,13.3502792,standalone,,"Eisenacher Straße, 10823, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+5075147221,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.2053375 52.5367467),52.5367467,13.2053375,standalone,accessible,"Markt, 13597, Berlin",Sparkasse,Spandau,0501,Spandau,11005005
+5076922835,,,POINT (13.4649833 52.5070929),52.5070929,13.4649833,standalone,accessible,"Holteistraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5076923407,24/7,,POINT (13.4626899 52.5082398),52.5082398,13.4626899,standalone,,"Wühlischstraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5077036502,,,POINT (13.4621729 52.5085856),52.5085856,13.4621729,standalone,,"Wühlischstraße, 10245, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5077391329,,,POINT (13.4263237 52.4765904),52.4765904,13.4263237,standalone,not accessible,"Hermannstraße, 12049, Berlin",Notemachine,Neukölln,0801,Neukölln,11008008
+5080728652,,,POINT (13.3563653 52.4864154),52.4864154,13.3563653,standalone,,"Hauptstraße, 10827, Berlin",Iccash,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+5080941038,,,POINT (13.3852955 52.4704626),52.4704626,13.3852955,standalone,,"Tempelhofer Damm, 12099, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+5083908875,24/7,,POINT (13.4498878 52.4971671),52.4971671,13.4498878,standalone,partially accessible,"Vor dem Schlesischen Tor, 1, 10997, Berlin",Ncr,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5087823686,24/7,,POINT (13.2825332 52.5910898),52.5910898,13.2825332,standalone,,"Schloßstraße, 26, 13507, Berlin",Deutsche Bank,Reinickendorf,1202,Tegel,11012012
+5096094904,24/7,,POINT (13.412976 52.547467),52.547467,13.412976,standalone,not accessible,"Schönhauser Allee, 124, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+5108322926,24/7,,POINT (13.3870672 52.4933104),52.4933104,13.3870672,standalone,not accessible,"Yorckstraße, 10965, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5121995129,,,POINT (13.3905809 52.5070054),52.5070054,13.3905809,standalone,not accessible,"Friedrichstraße, 44, 10969, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5137239554,24/7,,POINT (13.4137488 52.5520311),52.5520311,13.4137488,indoor,not accessible,"Schönhauser Allee, 107, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+5137241620,24/7,,POINT (13.4139196 52.5526169),52.5526169,13.4139196,standalone,,"Schönhauser Allee, 104, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+5151479191,24/7,,POINT (13.41392 52.548478),52.548478,13.41392,standalone,not accessible,"Schönhauser Allee, 72, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+5171487416,,,POINT (13.4073892 52.5221725),52.5221725,13.4073892,standalone,accessible,"Karl-Liebknecht-Straße, 13, 10178, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+5172372233,24/7,,POINT (13.496525 52.5700652),52.5700652,13.496525,standalone,accessible,"Ribnitzer Straße, 13051, Berlin",Berliner Volksbank,Lichtenberg,1109,Neu-Hohenschönhausen,11011011
+5181433570,,fee applies,POINT (13.4627727 52.5111719),52.5111719,13.4627727,standalone,,"Wismarplatz, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5202358620,24/7,,POINT (13.3577781 52.5519441),52.5519441,13.3577781,standalone,partially accessible,"Liebenwalder Straße, 34A, 13347, Berlin",Bankhaus August Lenz,Mitte,0105,Wedding,11001001
+5218164766,,,POINT (13.3145937 52.5060961),52.5060961,13.3145937,standalone,partially accessible,"Kantstraße, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5236412432,,,POINT (13.3008175 52.4883967),52.4883967,13.3008175,standalone,,"Hohenzollerndamm, 10709, Berlin",Vob-Zvd Processing GmbH,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+5257417944,,,POINT (13.3334217 52.4524014),52.4524014,13.3334217,standalone,,"Albrechtstraße, 12167, Berlin",Postbank,Steglitz-Zehlendorf,0601,Steglitz,11006006
+5270155488,24/7,,POINT (13.3936752 52.528289),52.528289,13.3936752,standalone,not accessible,"Torstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5273289852,24/7,,POINT (13.376455 52.509473),52.509473,13.376455,standalone,not accessible,"Potsdamer Platz, 10785, Berlin",Cardpoint,Mitte,0101,Mitte,11001001
+5275180213,24/7,,POINT (13.3835283 52.5515343),52.5515343,13.3835283,standalone,accessible,"Badstraße, 13357, Berlin",IC Cash Services,Mitte,0106,Gesundbrunnen,11001001
+5275782105,24/7,,POINT (13.389137 52.51626),52.51626,13.389137,indoor,accessible,"Rosmarinstraße, 10117, Berlin",Volkswagen Bank,Mitte,0101,Mitte,11001001
+5277613738,24/7,,POINT (13.4122443 52.5477622),52.5477622,13.4122443,standalone,not accessible,"Gleimstraße, 10437, Berlin",Ic-Cash,Pankow,0301,Prenzlauer Berg,11003003
+5277830484,24/7,,POINT (13.414714 52.549574),52.549574,13.414714,indoor,not accessible,"Schönhauser Allee, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+5284594732,,,POINT (13.4358754 52.4232008),52.4232008,13.4358754,standalone,accessible,"Alt-Buckow, 12349, Berlin",Volksbank,Neukölln,0803,Buckow,11008008
+5288129274,,,POINT (13.3549891 52.5199419),52.5199419,13.3549891,standalone,partially accessible,"Paulstraße, 20, 10557, Berlin",unknown_atm,Mitte,0102,Moabit,11001001
+5291794085,24/7,,POINT (13.405263 52.5514601),52.5514601,13.405263,standalone,accessible,"Schivelbeiner Straße, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+5293863521,,,POINT (13.3170853 52.5050317),52.5050317,13.3170853,standalone,,"Schlüterstraße, 10629, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5298516359,24/7,,POINT (13.398208 52.54612),52.54612,13.398208,standalone,not accessible,"Gleimstraße, 13355, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+5312587233,,,POINT (13.3885706 52.4896344),52.4896344,13.3885706,standalone,,"Bergmannstraße, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5312679440,,,POINT (13.443156 52.546628),52.546628,13.443156,indoor,,"Ostseestraße, 10409, Berlin",Ic-Cash,Pankow,0301,Prenzlauer Berg,11003003
+5324065556,24/7,,POINT (13.4396055 52.4761384),52.4761384,13.4396055,standalone,,"Karl-Marx-Straße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+5333545879,24/7,,POINT (13.4050304 52.5336676),52.5336676,13.4050304,standalone,accessible,"Kastanienallee, 10119, Berlin",Ic-Cash,Mitte,0101,Mitte,11001001
+5340739184,,,POINT (13.3869831 52.527616),52.527616,13.3869831,standalone,partially accessible,"Chausseestraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5379389508,,,POINT (13.3851081 52.4508849),52.4508849,13.3851081,standalone,,"Mariendorfer Damm, 12109, Berlin",unknown_atm,Tempelhof-Schöneberg,0704,Mariendorf,11007007
+5383468830,24/7,,POINT (13.3992458 52.524343),52.524343,13.3992458,standalone,,"Große Hamburger Straße, 20, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5389556459,24/7,,POINT (13.4940845 52.6356122),52.6356122,13.4940845,standalone,accessible,"Schlosspark-Passage, 13125, Berlin",Berliner Volksbank,Pankow,0309,Buch,11003003
+5418803457,24/7,,POINT (13.38639 52.505173),52.505173,13.38639,standalone,accessible,"Anhalter Straße, 10963, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5424517314,,,POINT (13.3806406 52.532309),52.532309,13.3806406,standalone,not accessible,"Chausseestraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5450674589,,,POINT (13.3797561 52.5103016),52.5103016,13.3797561,standalone,accessible,"Leipziger Platz, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5467784871,24/7,,POINT (13.3820171 52.5597366),52.5597366,13.3820171,standalone,accessible,"Soldiner Straße, 13359, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+5468991489,,,POINT (13.414854 52.519949),52.519949,13.414854,standalone,,"Grunerstraße, 20, 10179, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5477244384,,,POINT (13.4477222 52.4367629),52.4367629,13.4477222,indoor,accessible,"Gutschmidtstraße, 12359, Berlin",unknown_atm,Neukölln,0802,Britz,11008008
+5484600138,24/7,,POINT (13.4127336 52.5437425),52.5437425,13.4127336,standalone,not accessible,"Schönhauser Allee, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+5491807504,,,POINT (13.4338778 52.4792662),52.4792662,13.4338778,standalone,,"Rollbergstraße, 26, 12053, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+5494685888,24/7,,POINT (13.346404 52.579101),52.579101,13.346404,standalone,,"Roedernallee, 179, 13407, Berlin",Ing-Diba,Reinickendorf,1201,Reinickendorf,11012012
+5498784827,24/7,,POINT (13.414071 52.520595),52.520595,13.414071,standalone,accessible,"Grunerstraße, 10179, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+5503456918,,,POINT (13.4623021 52.5167742),52.5167742,13.4623021,indoor,partially accessible,"Rigaer Straße, 10247, Berlin",IC Cash Services,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5503457021,,,POINT (13.4613177 52.5169031),52.5169031,13.4613177,standalone,partially accessible,"Rigaer Straße, 10247, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5538558495,,,POINT (13.44087 52.5000737),52.5000737,13.44087,standalone,not accessible,"Oppelner Straße, 10997, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5540478722,24/7,,POINT (13.4331438 52.4968123),52.4968123,13.4331438,standalone,accessible,"Wiener Straße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5540515806,24/7,,POINT (13.4463306 52.498586),52.498586,13.4463306,standalone,not accessible,"Schlesische Straße, 10997, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5540732959,24/7,,POINT (13.4511001 52.4967351),52.4967351,13.4511001,standalone,partially accessible,"Am Flutgraben, 12435, Berlin",Euronet,Treptow-Köpenick,0901,Alt-Treptow,11009009
+5590154456,24/7,,POINT (13.3221205 52.4862469),52.4862469,13.3221205,indoor,accessible,"Berliner Straße, 10715, Berlin",Deutsche Bank Ag,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+5611563550,,,POINT (13.625469 52.4549438),52.4549438,13.625469,standalone,,"Bölschestraße, 12587, Berlin",Berliner Volksbank,Treptow-Köpenick,0911,Friedrichshagen,11009009
+5630437219,,,POINT (13.3082864 52.5258847),52.5258847,13.3082864,standalone,not accessible,"Kaiserin-Augusta-Allee, 10589, Berlin",IC Cash Services,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5633282150,,,POINT (13.4455121 52.5032934),52.5032934,13.4455121,standalone,accessible,"Mühlenstraße, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5638413507,,,POINT (13.397996 52.538601),52.538601,13.397996,standalone,accessible,"Bernauer Straße, 13355, Berlin",unknown_atm,Mitte,0101,Mitte,11001001
+5641834847,24/7,,POINT (13.38871 52.4938293),52.4938293,13.38871,standalone,,"Mehringdamm, 25, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5648780521,,,POINT (13.3453911 52.486658),52.486658,13.3453911,indoor,accessible,"Martin-Luther-Straße, 10825, Berlin",Sparkasse,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+5659024261,24/7,,POINT (13.4688068 52.5070041),52.5070041,13.4688068,standalone,accessible,"Boxhagener Straße, 73, 10245, Berlin",Iccash Services,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5674155400,,,POINT (13.3301618 52.5264793),52.5264793,13.3301618,standalone,,"Gotzkowskystraße, 10555, Berlin",unknown_atm,Mitte,0102,Moabit,11001001
+5680502495,,,POINT (13.3745249 52.4851794),52.4851794,13.3745249,standalone,,"Dudenstraße, 10965, Berlin",Postbank Ag (Ohne Cash Group),Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5718697041,,,POINT (13.3593522 52.4897905),52.4897905,13.3593522,standalone,,"Hauptstraße, 10827, Berlin",Ec Cash,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+5720000667,,,POINT (13.3657345 52.5035048),52.5035048,13.3657345,standalone,not accessible,"Potsdamer Straße, 10785, Berlin",Ec Cash,Mitte,0104,Tiergarten,11001001
+5728763347,24/7,,POINT (13.4078499 52.5265829),52.5265829,13.4078499,standalone,not accessible,"Alte Schönhauser Straße, 45, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5742057934,,,POINT (13.3906875 52.5064447),52.5064447,13.3906875,standalone,partially accessible,"Friedrichstraße, 10969, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5744012071,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3421414 52.4508025),52.4508025,13.3421414,indoor,,"Steglitzer Damm, 37, 12169, Berlin",Sparkasse Berlin,Steglitz-Zehlendorf,0601,Steglitz,11006006
+5794283532,,,POINT (13.367557 52.5241339),52.5241339,13.367557,indoor,partially accessible,"Ella-Trebe-Straße, 9, 10557, Berlin",unknown_atm,Mitte,0102,Moabit,11001001
+5796921740,,,POINT (13.2699138 52.5106139),52.5106139,13.2699138,standalone,,"Reichsstraße, 14052, Berlin",Euronet,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+5798363403,,,POINT (13.2385934 52.5424503),52.5424503,13.2385934,standalone,,"Gartenfelder Straße, 13599, Berlin",Sparkasse,Spandau,0502,Haselhorst,11005005
+5832473274,,,POINT (13.3706669 52.4925853),52.4925853,13.3706669,standalone,accessible,"Yorckstraße, 10965, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+5835803811,,,POINT (13.5655022 52.5412986),52.5412986,13.5655022,indoor,,"Allee der Kosmonauten, 6, 12685, Berlin",unknown_atm,Marzahn-Hellersdorf,1001,Marzahn,11010010
+5842255385,,,POINT (13.4200408 52.5035311),52.5035311,13.4200408,standalone,,"Waldemarstraße, 41, 10999, Berlin",Cardpoint,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5844370741,,,POINT (13.3440407 52.5276134),52.5276134,13.3440407,indoor,accessible,"Stromstraße, 10555, Berlin",Berliner Sparkasse,Mitte,0102,Moabit,11001001
+5853587359,,,POINT (13.4567383 52.5334611),52.5334611,13.4567383,standalone,,"Storkower Straße, 139, 10407, Berlin",Berliner Sparkasse,Pankow,0301,Prenzlauer Berg,11003003
+5863636988,,,POINT (13.3021615 52.5060146),52.5060146,13.3021615,standalone,,"Kaiser-Friedrich-Straße, 10627, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5871989195,,,POINT (13.4513472 52.5088189),52.5088189,13.4513472,standalone,accessible,"Warschauer Straße, 55, 10243, Berlin",IC Cash Services,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5887663955,,,POINT (13.3020599 52.5066025),52.5066025,13.3020599,standalone,,"Kantstraße, 10627, Berlin",Bankhaus August Lenz,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5908587152,24/7,,POINT (13.4003838 52.5297135),52.5297135,13.4003838,standalone,not accessible,"Torstraße, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+5922177188,,,POINT (13.4089248 52.4945984),52.4945984,13.4089248,indoor,,"Dieffenbachstraße, 1, 10967, Berlin",Postbank,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+5922932685,,,POINT (13.3097119 52.5117081),52.5117081,13.3097119,standalone,not accessible,"Bismarckstraße, 10587, Berlin",Cashzone,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5923172150,,,POINT (13.3308078 52.5055008),52.5055008,13.3308078,standalone,accessible,"Kantstraße, 10623, Berlin",Ec,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5935053185,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3849414 52.4554118),52.4554118,13.3849414,indoor,,"Ordensmeisterstraße, 12099, Berlin",Sparkasse,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+5945682729,,,POINT (13.3546102 52.4855442),52.4855442,13.3546102,standalone,,"Hauptstraße, 10827, Berlin",Postbank,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+5955521261,,,POINT (13.46479 52.5149135),52.5149135,13.46479,standalone,not accessible,"Frankfurter Allee, 10247, Berlin",Postbank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+5976019288,24/7,,POINT (13.2888699 52.5102194),52.5102194,13.2888699,standalone,,"Kaiserdamm, 14057, Berlin",Volksbank,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+5981112438,,,POINT (13.442732 52.4991143),52.4991143,13.442732,standalone,not accessible,"Falckensteinstraße, 10997, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6010620652,24/7,,POINT (13.2835054 52.5062522),52.5062522,13.2835054,indoor,,"Neue Kantstraße, 14057, Berlin",IC Cash Services,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6010650298,24/7,,POINT (13.5955904 52.4402389),52.4402389,13.5955904,standalone,,"Müggelschlößchenweg, 12559, Berlin",Berliner Volksbank,Treptow-Köpenick,0910,Köpenick,11009009
+6037152592,,,POINT (13.4374022 52.510562),52.510562,13.4374022,standalone,,"Straße der Pariser Kommune, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6058229934,,,POINT (13.4423497 52.504957),52.504957,13.4423497,standalone,,"Uber Platz, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6075277541,,,POINT (13.3318308 52.5061237),52.5061237,13.3318308,standalone,accessible,"Hardenbergstraße, 10789, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6088904585,,,POINT (13.4320478 52.5016615),52.5016615,13.4320478,standalone,accessible,"Eisenbahnstraße, 10997, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6124908035,,,POINT (13.400127 52.5392208),52.5392208,13.400127,standalone,not accessible,"Bernauer Straße, 13355, Berlin",Euronet,Mitte,0101,Mitte,11001001
+6150638302,,,POINT (13.4451275 52.5010419),52.5010419,13.4451275,standalone,partially accessible,"Oberbaumbrücke, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6172970577,24/7,,POINT (13.3751287 52.5001009),52.5001009,13.3751287,standalone,,"Luckenwalder Straße, 4-6, 10963, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6175109124,,,POINT (13.4425119 52.5712308),52.5712308,13.4425119,indoor,,"Blankenburger Straße, 13089, Berlin",Berliner Volksbank,Pankow,0304,Heinersdorf,11003003
+6203300723,,,POINT (13.378505 52.5092834),52.5092834,13.378505,standalone,not accessible,"Leipziger Platz, 10117, Berlin",Berliner Sparkasse,Mitte,0101,Mitte,11001001
+6203609541,,,POINT (13.4632792 52.5166106),52.5166106,13.4632792,standalone,accessible,"Rigaer Straße, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6203753360,,,POINT (13.4584543 52.5125331),52.5125331,13.4584543,indoor,,"Boxhagener Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6214592079,,,POINT (13.4397109 52.4993952),52.4993952,13.4397109,standalone,,"Wrangelstraße, 10997, Berlin",IC Cash Services,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6221609398,,,POINT (13.4460497 52.5056395),52.5056395,13.4460497,standalone,,"Tamara-Danz-Straße, 10243, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6221609400,,,POINT (13.4434727 52.5056098),52.5056098,13.4434727,indoor,,"Uber Platz, 10243, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6246014771,24/7,,POINT (13.4001191 52.5392207),52.5392207,13.4001191,standalone,not accessible,"Bernauer Straße, 13355, Berlin",Euronet,Mitte,0101,Mitte,11001001
+6246774336,,,POINT (13.3018949 52.5075522),52.5075522,13.3018949,standalone,,"Kaiser-Friedrich-Straße, 46, 10627, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6266889781,24/7,,POINT (13.3759218 52.555179),52.555179,13.3759218,standalone,accessible,"Schwedenstraße, 13357, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+6283063705,,,POINT (13.4660331 52.5085575),52.5085575,13.4660331,indoor,,"Holteistraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6284510823,,,POINT (13.3414862 52.4475754),52.4475754,13.3414862,standalone,,"Albrechtstraße, 12167, Berlin",IC Cash Services,Steglitz-Zehlendorf,0601,Steglitz,11006006
+6291504489,24/7,,POINT (13.4406077 52.4812482),52.4812482,13.4406077,standalone,not accessible,"Sonnenallee, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6291504491,24/7,,POINT (13.4352314 52.4839034),52.4839034,13.4352314,standalone,not accessible,"Sonnenallee, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6291504493,24/7,,POINT (13.4402606 52.4814204),52.4814204,13.4402606,standalone,not accessible,"Sonnenallee, 12045, Berlin",Bankhaus August Lenz,Neukölln,0801,Neukölln,11008008
+6291504494,24/7,,POINT (13.432682 52.4854042),52.4854042,13.432682,standalone,not accessible,"Sonnenallee, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6291504495,24/7,,POINT (13.4373904 52.482797),52.482797,13.4373904,standalone,not accessible,"Schönstedtstraße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6291592363,,,POINT (13.4556318 52.4738004),52.4738004,13.4556318,standalone,,"Sonnenallee, 12059, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6293081360,24/7,,POINT (13.3511264 52.5264897),52.5264897,13.3511264,standalone,accessible,"Turmstraße, 10559, Berlin",Euronet,Mitte,0102,Moabit,11001001
+6297518804,24/7,,POINT (13.4127673 52.5225378),52.5225378,13.4127673,standalone,accessible,"10178, Berlin",Euronet,Mitte,0101,Mitte,11001001
+6299191934,24/7,,POINT (13.4672842 52.5051011),52.5051011,13.4672842,standalone,,"Sonntagstraße, 5, 10245, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6299202272,24/7,,POINT (13.4688024 52.5048636),52.5048636,13.4688024,standalone,accessible,"Neue Bahnhofstraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6301878943,24/7,,POINT (13.4697045 52.5063394),52.5063394,13.4697045,standalone,accessible,"Boxhagener Straße, 60, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6331082242,24/7,,POINT (13.3600951 52.545614),52.545614,13.3600951,standalone,accessible,"Müllerstraße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+6333204704,24/7,,POINT (13.3809212 52.5600316),52.5600316,13.3809212,standalone,accessible,"Soldiner Straße, 67, 13359, Berlin",Cashzone,Mitte,0106,Gesundbrunnen,11001001
+6340679945,,,POINT (13.3097096 52.5115533),52.5115533,13.3097096,standalone,accessible,"Bismarckstraße, 10587, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6376958507,,,POINT (13.5787031 52.4584595),52.4584595,13.5787031,indoor,accessible,"Bahnhofstraße, 12555, Berlin",Berliner Sparkasse,Treptow-Köpenick,0910,Köpenick,11009009
+6398544237,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.5840079 52.4437051),52.4437051,13.5840079,indoor,not accessible,"Wendenschloßstraße, 12557, Berlin",Berliner Sparkasse,Treptow-Köpenick,0910,Köpenick,11009009
+6403515644,,,POINT (13.2910932 52.4750691),52.4750691,13.2910932,standalone,,"Breite Straße, 14199, Berlin",Cashzone,Charlottenburg-Wilmersdorf,0403,Schmargendorf,11004004
+6409920573,,,POINT (13.2981061 52.5069325),52.5069325,13.2981061,standalone,,"Kantstraße, 10627, Berlin",Note Machine,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6409921754,,,POINT (13.3044274 52.5057063),52.5057063,13.3044274,standalone,,"Stuttgarter Platz, 10627, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6418054536,,,POINT (13.5887558 52.5209018),52.5209018,13.5887558,standalone,,"Hellersdorfer Straße, 12619, Berlin",Sparkasse,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+6423132154,,,POINT (13.3202176 52.5056109),52.5056109,13.3202176,standalone,,"Bleibtreustraße, 10623, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6441572682,,,POINT (13.3066041 52.5061921),52.5061921,13.3066041,standalone,,"Wilmersdorfer Straße, 10627, Berlin",Berliner Volksbank,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6457641385,,fee applies,POINT (13.4605035 52.5089869),52.5089869,13.4605035,standalone,,"Wühlischstraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6462978428,,,POINT (13.3096269 52.5063587),52.5063587,13.3096269,standalone,not accessible,"Kantstraße, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6472039140,Mo-Su 06:00-22:00,,POINT (13.335044 52.5041296),52.5041296,13.335044,indoor,accessible,"Kurfürstendamm, 10719, Berlin",Commerzbank,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6493297962,24/7,,POINT (13.4401809 52.4836201),52.4836201,13.4401809,standalone,not accessible,"Weserstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6497245917,24/7,,POINT (13.3781465 52.4923291),52.4923291,13.3781465,standalone,,"Yorckstraße, 10965, Berlin",Iccash Services,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6510691385,24/7,,POINT (13.3886939 52.519368),52.519368,13.3886939,standalone,not accessible,"Friedrichstraße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+6514128699,,,POINT (13.4196456 52.5308844),52.5308844,13.4196456,standalone,,"Prenzlauer Allee, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+6545402122,,,POINT (13.3846926 52.4964654),52.4964654,13.3846926,standalone,,"Großbeerenstraße, 10963, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6563543235,,,POINT (13.3052437 52.5086415),52.5086415,13.3052437,standalone,,"Wilmersdorfer Straße, 10627, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6567063081,,,POINT (13.3650558 52.4765992),52.4765992,13.3650558,indoor,,"Hildegard-Knef-Platz, 10829, Berlin",Reisebank,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+6579202787,24/7,,POINT (13.3488151 52.5245273),52.5245273,13.3488151,standalone,accessible,"Alt-Moabit, 10559, Berlin",Euronet,Mitte,0102,Moabit,11001001
+6596177156,,,POINT (13.3536034 52.498907),52.498907,13.3536034,standalone,not accessible,"Nollendorfplatz, 10777, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+6603787759,,,POINT (13.4059663 52.5250906),52.5250906,13.4059663,standalone,not accessible,"Weinmeisterstraße, 10178, Berlin",Cashzone,Mitte,0101,Mitte,11001001
+6635160124,,,POINT (13.3282044 52.5327983),52.5327983,13.3282044,standalone,,"Sickingenstraße, 10553, Berlin",Euronet,Mitte,0102,Moabit,11001001
+6638541471,,,POINT (13.453784 52.5143069),52.5143069,13.453784,indoor,,"Warschauer Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6642835605,,,POINT (13.3286685 52.5332187),52.5332187,13.3286685,standalone,,"Beusselstraße, 10553, Berlin",unknown_atm,Mitte,0102,Moabit,11001001
+6697844336,,,POINT (13.4054217 52.5340288),52.5340288,13.4054217,indoor,not accessible,"Zionskirchstraße, 10119, Berlin",Soda,Mitte,0101,Mitte,11001001
+6703577711,,,POINT (13.3583169 52.5460893),52.5460893,13.3583169,indoor,,"Luxemburger Straße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+6703964673,,,POINT (13.3208712 52.4861946),52.4861946,13.3208712,indoor,partially accessible,"Berliner Straße, 10715, Berlin",Sparda-Bank Berlin,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+6726487220,24/7,,POINT (13.439721 52.4814419),52.4814419,13.439721,standalone,,"Erkstraße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6731917567,,,POINT (13.3899808 52.5088158),52.5088158,13.3899808,standalone,accessible,"Friedrichstraße, 200, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+6749719763,,,POINT (13.3880469 52.5127899),52.5127899,13.3880469,standalone,,"Taubenstraße, 7-9, 10117, Berlin",Deutsche Kreditbank Ag,Mitte,0101,Mitte,11001001
+6754321072,24/7,,POINT (13.4253937 52.4804317),52.4804317,13.4253937,standalone,,"Hermannstraße, 12049, Berlin",Atm Geldautomat,Neukölln,0801,Neukölln,11008008
+6761415215,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.7149917 52.4313655),52.4313655,13.7149917,standalone,accessible,"Fürstenwalder Allee, 12589, Berlin",Sparkasse,Treptow-Köpenick,0912,Rahnsdorf,11009009
+6761490090,,,POINT (13.3692107 52.5451083),52.5451083,13.3692107,standalone,,"Martha-Ndumbe-Platz, 13347, Berlin",Euronet,Mitte,0105,Wedding,11001001
+6770484030,24/7,,POINT (13.4202184 52.4763686),52.4763686,13.4202184,indoor,,"Lichtenrader Straße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6779264848,24/7,,POINT (13.4247802 52.4757783),52.4757783,13.4247802,standalone,,"Kienitzer Straße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6785895318,24/7,,POINT (13.4254476 52.478958),52.478958,13.4254476,standalone,not accessible,"Hermannstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6786716225,24/7,,POINT (13.4305532 52.4861847),52.4861847,13.4305532,standalone,not accessible,"Sonnenallee, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6788467854,,,POINT (13.2713976 52.4996939),52.4996939,13.2713976,standalone,,"Messedamm, 26, 14055, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+6790910642,24/7,,POINT (13.3627503 52.5000592),52.5000592,13.3627503,standalone,,"Potsdamer Straße, 10785, Berlin",Postbank,Mitte,0104,Tiergarten,11001001
+6792401240,,,POINT (13.3941577 52.4912129),52.4912129,13.3941577,standalone,,"Zossener Straße, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+6795014207,,,POINT (13.2813141 52.510196),52.510196,13.2813141,standalone,accessible,"Kaiserdamm, 14057, Berlin",Zvd Processing,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+6819836600,,,POINT (13.3868231 52.5103933),52.5103933,13.3868231,standalone,not accessible,"Leipziger Straße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+6835757332,24/7,,POINT (13.4320921 52.4815613),52.4815613,13.4320921,standalone,not accessible,"Flughafenstraße, 12053, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6835765374,24/7,,POINT (13.4323021 52.4815856),52.4815856,13.4323021,standalone,not accessible,"Flughafenstraße, 12053, Berlin",Postbank,Neukölln,0801,Neukölln,11008008
+6835768439,24/7,,POINT (13.4267228 52.4811105),52.4811105,13.4267228,standalone,not accessible,"Flughafenstraße, 12053, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6835769541,24/7,,POINT (13.4286218 52.4813318),52.4813318,13.4286218,standalone,not accessible,"Flughafenstraße, 12053, Berlin",Bankhaus August Lenz,Neukölln,0801,Neukölln,11008008
+6847969095,,,POINT (13.432056 52.482284),52.482284,13.432056,indoor,,"Karl-Marx-Straße, 66, 12043, Berlin",Postbank,Neukölln,0801,Neukölln,11008008
+6847969103,,,POINT (13.432322 52.4822241),52.4822241,13.432322,indoor,,"Karl-Marx-Straße, 12043, Berlin",Berliner Sparkasse,Neukölln,0801,Neukölln,11008008
+6848352028,24/7,,POINT (13.4351209 52.4830785),52.4830785,13.4351209,standalone,not accessible,"Fuldastraße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6848366540,24/7,,POINT (13.4292706 52.4842887),52.4842887,13.4292706,standalone,not accessible,"Karl-Marx-Straße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6848366930,24/7,,POINT (13.4375424 52.481489),52.481489,13.4375424,standalone,not accessible,"Donaustraße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6872915285,24/7,,POINT (13.4607387 52.5075169),52.5075169,13.4607387,standalone,not accessible,"Simplonstraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+6875970759,24/7,,POINT (13.4441904 52.4794755),52.4794755,13.4441904,standalone,not accessible,"Sonnenallee, 12059, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6875983806,24/7,,POINT (13.453738 52.4751415),52.4751415,13.453738,standalone,partially accessible,"Sonnenallee, 12059, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6875990278,24/7,,POINT (13.4384032 52.4823366),52.4823366,13.4384032,standalone,not accessible,"Sonnenallee, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6877443441,,,POINT (13.3105088 52.5063167),52.5063167,13.3105088,standalone,,"Kantstraße, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+6888135022,24/7,,POINT (13.3651614 52.4934749),52.4934749,13.3651614,standalone,,"Goebenstraße, 10783, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+6900657438,24/7,,POINT (13.4399497 52.4839534),52.4839534,13.4399497,standalone,not accessible,"Weserstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6900678521,24/7,,POINT (13.4409548 52.4834581),52.4834581,13.4409548,standalone,not accessible,"Weserstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6900687397,24/7,,POINT (13.4413693 52.4832563),52.4832563,13.4413693,standalone,not accessible,"Weserstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6903207579,,,POINT (13.3954245 52.5133659),52.5133659,13.3954245,standalone,,"Taubenstraße, 10117, Berlin",Postbank,Mitte,0101,Mitte,11001001
+6938121666,,,POINT (13.3929737 52.5281701),52.5281701,13.3929737,standalone,not accessible,"Torstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+6943838304,,,POINT (13.4083829 52.5533884),52.5533884,13.4083829,indoor,accessible,"Czarnikauer Straße, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+6990968299,24/7,,POINT (13.4251225 52.4815725),52.4815725,13.4251225,standalone,not accessible,"Hermannstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+6990968300,,,POINT (13.4250985 52.4819939),52.4819939,13.4250985,standalone,not accessible,"Biebricher Straße, 12053, Berlin",Notemachine,Neukölln,0801,Neukölln,11008008
+6990968301,24/7,,POINT (13.4251023 52.4817798),52.4817798,13.4251023,standalone,not accessible,"Biebricher Straße, 12053, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7004741528,24/7,,POINT (13.442755 52.4739234),52.4739234,13.442755,standalone,not accessible,"Karl-Marx-Platz, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7009728840,24/7,,POINT (13.4410208 52.4825101),52.4825101,13.4410208,indoor,not accessible,"Wildenbruchstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7025879078,,,POINT (13.4343514 52.5352381),52.5352381,13.4343514,standalone,,"Danziger Straße, 130, 10407, Berlin",unknown_atm,Pankow,0301,Prenzlauer Berg,11003003
+7025879191,,,POINT (13.4340781 52.5360252),52.5360252,13.4340781,standalone,,"Danziger Straße, 10407, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+7025879192,,,POINT (13.434438 52.5358448),52.5358448,13.434438,standalone,,"Danziger Straße, 10407, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+7026224685,,,POINT (13.3874368 52.512993),52.512993,13.3874368,standalone,,"Glinkastraße, 24, 10117, Berlin",Deutsche Kreditbank Ag,Mitte,0101,Mitte,11001001
+7026224686,,,POINT (13.3886195 52.5108858),52.5108858,13.3886195,indoor,,"Kronenstraße, 10117, Berlin",Deutsche Kreditbank Ag,Mitte,0101,Mitte,11001001
+7030868895,24/7,,POINT (13.3617514 52.4965312),52.4965312,13.3617514,standalone,,"Potsdamer Straße, 10783, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7035258290,24/7,,POINT (13.3614494 52.4976927),52.4976927,13.3614494,standalone,,"Bülowstraße, 10783, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7056713589,24/7,,POINT (13.4053343 52.4896534),52.4896534,13.4053343,standalone,,"Gneisenaustraße, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7067306941,,,POINT (13.3483013 52.497696),52.497696,13.3483013,standalone,,"Motzstraße, 10777, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7082622448,,,POINT (13.4067247 52.5361642),52.5361642,13.4067247,standalone,accessible,"Schwedter Straße, 10435, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+7090344654,,,POINT (13.3312475 52.5272874),52.5272874,13.3312475,standalone,accessible,"Turmstraße, 10551, Berlin",unknown_atm,Mitte,0102,Moabit,11001001
+7090552985,,,POINT (13.4179398 52.5038933),52.5038933,13.4179398,indoor,,"Waldemarstraße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7095849484,,,POINT (13.4326432 52.5354575),52.5354575,13.4326432,standalone,accessible,"Greifswalder Straße, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+7101605217,,,POINT (13.3717518 52.5548765),52.5548765,13.3717518,standalone,accessible,"Heinz-Galinski-Straße, 13347, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+7107787181,,,POINT (13.3905873 52.4920111),52.4920111,13.3905873,standalone,,"Gneisenaustraße, 9, 10961, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7141438134,,,POINT (13.4401574 52.4673111),52.4673111,13.4401574,standalone,,"Silbersteinstraße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7160668107,,,POINT (13.3878531 52.5521879),52.5521879,13.3878531,standalone,,"Bellermannstraße, 13357, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+7167689938,,,POINT (13.3804609 52.4898357),52.4898357,13.3804609,standalone,,"Kreuzbergstraße, 22, 10965, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7203432342,,,POINT (13.390588 52.5276665),52.5276665,13.390588,standalone,not accessible,"Torstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+7217029046,,,POINT (13.3859066 52.4693415),52.4693415,13.3859066,standalone,,"Tempelhofer Damm, 12099, Berlin",Euronet,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+7228194572,,,POINT (13.3873396 52.5256596),52.5256596,13.3873396,standalone,not accessible,"Friedrichstraße, 10117, Berlin",Cashzone,Mitte,0101,Mitte,11001001
+7229104070,24/7,,POINT (13.4236797 52.4923521),52.4923521,13.4236797,standalone,accessible,"Sanderstraße, 12047, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7231460510,,,POINT (13.3659825 52.5031478),52.5031478,13.3659825,standalone,,"Lützowstraße, 10785, Berlin",unknown_atm,Mitte,0104,Tiergarten,11001001
+7231460515,,,POINT (13.3630044 52.4995256),52.4995256,13.3630044,standalone,,"Kurfürstenstraße, 10785, Berlin",unknown_atm,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7239671326,,,POINT (13.441246 52.4728406),52.4728406,13.441246,standalone,,"Karl-Marx-Straße, 12055, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7251832831,,,POINT (13.3905374 52.5054506),52.5054506,13.3905374,standalone,,"Friedrichstraße, 10969, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7252379576,,,POINT (13.4232866 52.4746361),52.4746361,13.4232866,indoor,,"Allerstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7253124488,24/7,,POINT (13.4276686 52.4738115),52.4738115,13.4276686,standalone,partially accessible,"Hermannstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7257441591,,,POINT (13.4245698 52.48354),52.48354,13.4245698,standalone,,"Hermannstraße, 12049, Berlin",IC Cash Services,Neukölln,0801,Neukölln,11008008
+7257457448,,,POINT (13.4251948 52.4797233),52.4797233,13.4251948,standalone,accessible,"Hermannstraße, 12049, Berlin",Note Machine,Neukölln,0801,Neukölln,11008008
+7257487353,,,POINT (13.4252152 52.4796491),52.4796491,13.4252152,standalone,partially accessible,"Hermannstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7257490910,,,POINT (13.4242928 52.4808132),52.4808132,13.4242928,standalone,,"Flughafenstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7257491915,,,POINT (13.4252136 52.4809844),52.4809844,13.4252136,standalone,,"Hermannstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7261194876,24/7,,POINT (13.4245275 52.477268),52.477268,13.4245275,standalone,,"Herrfurthstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7277298061,,,POINT (13.4266541 52.4758832),52.4758832,13.4266541,standalone,not accessible,"Kienitzer Straße, 12049, Berlin",Iccash Services,Neukölln,0801,Neukölln,11008008
+7280071898,,,POINT (13.4638471 52.4978298),52.4978298,13.4638471,standalone,,"Stralauer Allee, 17B, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+7291200935,,,POINT (13.4247541 52.4791895),52.4791895,13.4247541,standalone,,"Selchower Straße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7294258362,,,POINT (13.4251152 52.477544),52.477544,13.4251152,standalone,,"Herrfurthstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7296855669,,,POINT (13.3640808 52.5633584),52.5633584,13.3640808,standalone,accessible,"Markstraße, 13409, Berlin",Euronet,Reinickendorf,1201,Reinickendorf,11012012
+7314744612,,,POINT (13.4255591 52.4785913),52.4785913,13.4255591,standalone,accessible,"Hermannstraße, 12049, Berlin",Bankhaus August Lenz,Neukölln,0801,Neukölln,11008008
+7350441564,,,POINT (13.2541673 52.4501685),52.4501685,13.2541673,standalone,accessible,"Ausgang Richtung Riemeisterstraße, 14169, Berlin",Sparkasse,Steglitz-Zehlendorf,0604,Zehlendorf,11006006
+7386209132,,,POINT (13.4232393 52.4974564),52.4974564,13.4232393,standalone,,"Reichenberger Straße, 35, 10999, Berlin",Bankhaus August Lenz,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7414733269,,,POINT (13.4215532 52.4934341),52.4934341,13.4215532,standalone,accessible,"Kottbusser Damm, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7414790250,,,POINT (13.4211566 52.4932261),52.4932261,13.4211566,standalone,accessible,"Böckhstraße, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7454045230,,,POINT (13.3945603 52.5074171),52.5074171,13.3945603,standalone,accessible,"Markgrafenstraße, 10969, Berlin",Iccash,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7538681785,,,POINT (13.3292385 52.4785236),52.4785236,13.3292385,standalone,,"Wexstraße, 32, 10715, Berlin",Bankhaus August Lenz,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+7570536847,,,POINT (13.419624 52.4952436),52.4952436,13.419624,standalone,,"Graefestraße, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7580993767,,,POINT (13.2912631 52.4974527),52.4974527,13.2912631,standalone,,"Kurfürstendamm, 10711, Berlin",Euronet Worldwide,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+7580993768,,,POINT (13.290614 52.497517),52.497517,13.290614,standalone,,"Kurfürstendamm, 10711, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+7589506271,,,POINT (13.3885732 52.5146079),52.5146079,13.3885732,standalone,partially accessible,"Französische Straße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+7598149832,,,POINT (13.3281593 52.4762174),52.4762174,13.3281593,standalone,,"Bundesallee, 64, 12161, Berlin",Euronet,Tempelhof-Schöneberg,0702,Friedenau,11007007
+7606373128,,,POINT (13.3476212 52.5526083),52.5526083,13.3476212,standalone,,"Müllerstraße, 13349, Berlin",Postbank,Mitte,0105,Wedding,11001001
+7660539090,,,POINT (13.347555 52.4820167),52.4820167,13.347555,standalone,,"Dominicusstraße, 26, 10823, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7674885955,24/7,,POINT (13.4637975 52.4978441),52.4978441,13.4637975,standalone,accessible,"Stralauer Allee, 17b, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+7680201165,,,POINT (13.3659627 52.4749802),52.4749802,13.3659627,standalone,,"Erika-Gräfin-von-Brockdorff-Platz, 12101, Berlin",Reisebank Ag,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7680586785,,,POINT (13.4433767 52.4822603),52.4822603,13.4433767,standalone,,"Weserstraße, 12045, Berlin",IC Cash Services,Neukölln,0801,Neukölln,11008008
+7700186856,,,POINT (13.3290934 52.4659255),52.4659255,13.3290934,standalone,,"Rheinstraße, 12161, Berlin",Euronet,Tempelhof-Schöneberg,0702,Friedenau,11007007
+7700194535,,,POINT (13.3468131 52.4803743),52.4803743,13.3468131,standalone,,"Hauptstraße, 10827, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7703068152,,,POINT (13.326476 52.479754),52.479754,13.326476,standalone,,"Mainzer Straße, 10715, Berlin",Cardpoint GmbH,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+7705812127,,,POINT (13.3309784 52.4677058),52.4677058,13.3309784,standalone,,"Rheinstraße, 12161, Berlin",Euronet Worldwide,Tempelhof-Schöneberg,0702,Friedenau,11007007
+7709526505,24/7,,POINT (13.4917155 52.5011496),52.5011496,13.4917155,standalone,accessible,"Lückstraße, 10317, Berlin",Cashzone,Lichtenberg,1112,Rummelsburg,11011011
+7741324057,,,POINT (13.3444599 52.4633227),52.4633227,13.3444599,standalone,,"Canovastraße, 12157, Berlin",IC Cash Services,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7750465047,24/7,,POINT (13.449137 52.4854183),52.4854183,13.449137,standalone,not accessible,"Elsenstraße, 12059, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7761809840,,,POINT (13.3582645 52.5435359),52.5435359,13.3582645,standalone,,"Triftstraße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+7773607315,,,POINT (13.3500972 52.5468625),52.5468625,13.3500972,standalone,,"Brüsseler Straße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+7778308554,,,POINT (13.4539263 52.5173407),52.5173407,13.4539263,standalone,,"Petersburger Straße, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+7778308566,,,POINT (13.4497239 52.5226906),52.5226906,13.4497239,indoor,,"Petersburger Straße, 10249, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+7807193687,,,POINT (13.3992551 52.5318864),52.5318864,13.3992551,indoor,,"Brunnenstraße, 180, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+7813229433,24/7,,POINT (13.3834246 52.5562568),52.5562568,13.3834246,standalone,accessible,"Osloer Straße, 13359, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+7823742545,,,POINT (13.3774842 52.5352655),52.5352655,13.3774842,standalone,,"Chausseestraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+7840293991,24/7,,POINT (13.3820866 52.5522169),52.5522169,13.3820866,standalone,accessible,"Badstraße, 13357, Berlin",Postbank,Mitte,0106,Gesundbrunnen,11001001
+7840293993,24/7,,POINT (13.3817542 52.5523638),52.5523638,13.3817542,standalone,accessible,"Prinzenallee, 13357, Berlin",Postbank,Mitte,0106,Gesundbrunnen,11001001
+7843680615,,,POINT (13.4266622 52.4884686),52.4884686,13.4266622,standalone,,"Hobrechtstraße, 12047, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+7850361034,,,POINT (13.3647616 52.4939689),52.4939689,13.3647616,standalone,,"Goebenstraße, 10783, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+7899286105,,,POINT (13.4428034 52.5003675),52.5003675,13.4428034,standalone,,"Schlesische Straße, 10997, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+7943061370,,,POINT (13.3090006 52.5067093),52.5067093,13.3090006,standalone,,"Kantstraße, 10627, Berlin",Iccash Services,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+7993441908,,,POINT (13.3122401 52.4805664),52.4805664,13.3122401,standalone,,"A 100, 10713, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+7994867492,24/7,,POINT (13.4952711 52.5046484),52.5046484,13.4952711,standalone,accessible,"Weitlingstraße, 10317, Berlin",Cashzone,Lichtenberg,1112,Rummelsburg,11011011
+8016439846,24/7,,POINT (13.3525555 52.5503724),52.5503724,13.3525555,standalone,accessible,"Müllerstraße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+8016439847,,,POINT (13.3535349 52.5487082),52.5487082,13.3535349,standalone,accessible,"Brüsseler Straße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+8023099839,,,POINT (13.4224003 52.492067),52.492067,13.4224003,standalone,,"Kottbusser Damm, 18, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+8039726232,,,POINT (13.3055315 52.5110922),52.5110922,13.3055315,standalone,,"Wilmersdorfer Straße, 134, 10627, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+8091571001,24/7,,POINT (13.410507 52.5334954),52.5334954,13.410507,standalone,not accessible,"Schwedter Straße, 10119, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+8095094739,24/7,,POINT (13.4386565 52.4814618),52.4814618,13.4386565,standalone,not accessible,"Erkstraße, 12043, Berlin",Atm Geldautomat,Neukölln,0801,Neukölln,11008008
+8120989359,,,POINT (13.3206288 52.4573291),52.4573291,13.3206288,standalone,,"Schloßstraße, 12163, Berlin",Santander,Steglitz-Zehlendorf,0601,Steglitz,11006006
+8120989379,,,POINT (13.3209333 52.457667),52.457667,13.3209333,indoor,,"Schloßstraße, 34, 12163, Berlin",Euronet,Steglitz-Zehlendorf,0601,Steglitz,11006006
+8155219723,06:00-23:00,,POINT (13.4374264 52.4549015),52.4549015,13.4374264,indoor,,"Britzer Damm, 88, 12347, Berlin",Berliner Volksbank,Neukölln,0802,Britz,11008008
+8176291352,24/7,,POINT (13.3813715 52.5523166),52.5523166,13.3813715,standalone,accessible,"Badstraße, 13357, Berlin",Postbank,Mitte,0106,Gesundbrunnen,11001001
+8190374779,,,POINT (13.3335042 52.5208252),52.5208252,13.3335042,standalone,,"Jagowstraße, 10555, Berlin",Ing,Mitte,0102,Moabit,11001001
+8190470805,,,POINT (13.3455872 52.5463934),52.5463934,13.3455872,standalone,,"Seestraße, 13353, Berlin",Ing,Mitte,0105,Wedding,11001001
+8193101449,,,POINT (13.3541088 52.4977319),52.4977319,13.3541088,standalone,,"Maaßenstraße, 10777, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+8200085126,,,POINT (13.307872 52.4671222),52.4671222,13.307872,indoor,,"Breitenbachplatz, 12, 14195, Berlin",Berliner Sparkasse,Steglitz-Zehlendorf,0605,Dahlem,11006006
+8255154308,,,POINT (13.3612346 52.5040397),52.5040397,13.3612346,standalone,,"Lützowstraße, 31, 10785, Berlin",Euronet,Mitte,0104,Tiergarten,11001001
+8264511435,,,POINT (13.3371733 52.5029162),52.5029162,13.3371733,standalone,,"Marburger Straße, 10789, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+8277871447,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.5756543 52.4447796),52.4447796,13.5756543,indoor,accessible,"Grünstraße, 12555, Berlin",Berliner Sparkasse,Treptow-Köpenick,0910,Köpenick,11009009
+8389925451,,,POINT (13.3311912 52.4926042),52.4926042,13.3311912,standalone,,"Bundesallee, 10717, Berlin",Iccash,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+8422865840,,,POINT (13.3305342 52.4874839),52.4874839,13.3305342,standalone,,"Berliner Straße, 10715, Berlin",Iccash,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+8423617310,,,POINT (13.348843 52.4818071),52.4818071,13.348843,standalone,,"Dominicusstraße, 10827, Berlin",Cashzone,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+8459383482,,,POINT (13.5766785 52.4586804),52.4586804,13.5766785,standalone,,"Bahnhofstraße, 33-38, 12555, Berlin",Postbank,Treptow-Köpenick,0910,Köpenick,11009009
+8467240335,,,POINT (13.588803 52.5123206),52.5123206,13.588803,standalone,,"Heinrich-Grüber-Straße, 12621, Berlin",Ic-Cash Service,Marzahn-Hellersdorf,1003,Kaulsdorf,11010010
+8481166821,,,POINT (13.393933 52.5085721),52.5085721,13.393933,standalone,,"Charlottenstraße, 17, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+8481166822,,,POINT (13.3940326 52.5104774),52.5104774,13.3940326,standalone,,"Leipziger Straße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+8488899629,,,POINT (13.3516755 52.4990589),52.4990589,13.3516755,standalone,,"Motzstraße, 10777, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+8518239718,,,POINT (13.4292163 52.4717839),52.4717839,13.4292163,standalone,,"Thomasstraße, 12053, Berlin",Euronet Worldwide,Neukölln,0801,Neukölln,11008008
+8518245117,,,POINT (13.4350602 52.4689079),52.4689079,13.4350602,indoor,,"Emser Straße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+8541232420,,,POINT (13.3389443 52.4860735),52.4860735,13.3389443,standalone,,"Meraner Straße, 10825, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+8552768801,,,POINT (13.3512507 52.5406002),52.5406002,13.3512507,standalone,,"Torfstraße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+8582058496,24/7,,POINT (13.4673478 52.5027865),52.5027865,13.4673478,standalone,,"Hauptstraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+8688703615,,,POINT (13.4116209 52.5380313),52.5380313,13.4116209,standalone,accessible,"Oderberger Straße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+8690315758,24/7,,POINT (13.5257668 52.4819621),52.4819621,13.5257668,standalone,accessible,"Treskowallee, 10318, Berlin",Berliner Volksbank,Lichtenberg,1102,Karlshorst,11011011
+8709164236,24/7,,POINT (13.3156221 52.5776766),52.5776766,13.3156221,standalone,partially accessible,"Eichborndamm, 13403, Berlin",Euronet,Reinickendorf,1201,Reinickendorf,11012012
+8720236620,24/7,,POINT (13.3991916 52.4937211),52.4937211,13.3991916,standalone,,"Schleiermacherstraße, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+8757852928,,,POINT (13.412926 52.5540783),52.5540783,13.412926,standalone,,"Bornholmer Straße, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+8791652278,24/7,,POINT (13.4971367 52.4646757),52.4646757,13.4971367,standalone,,"Köpenicker Landstraße, 296, 12437, Berlin",Ncr,Treptow-Köpenick,0905,Niederschöneweide,11009009
+8794492338,,,POINT (13.4327595 52.5022578),52.5022578,13.4327595,standalone,,"Wrangelstraße, 10997, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+8806284626,,,POINT (13.6056125 52.5377324),52.5377324,13.6056125,standalone,,"Peter-Weiss-Gasse, 12627, Berlin",unknown_atm,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+8806284632,,fee applies,POINT (13.6072182 52.537101),52.537101,13.6072182,standalone,,"Nelly-Sachs-Straße, 12627, Berlin",Bankhaus August Lenz,Marzahn-Hellersdorf,1005,Hellersdorf,11010010
+8844772160,24/7,,POINT (13.4037433 52.5255964),52.5255964,13.4037433,standalone,accessible,"Rosenthaler Straße, 51, 10178, Berlin",Euronet,Mitte,0101,Mitte,11001001
+8922094492,,,POINT (13.4973736 52.5094115),52.5094115,13.4973736,standalone,,"Weitlingstraße, 10317, Berlin",Reisebank,Lichtenberg,1112,Rummelsburg,11011011
+8922113187,,,POINT (13.4974321 52.5094019),52.5094019,13.4974321,standalone,,"Weitlingstraße, 10317, Berlin",Reisebank,Lichtenberg,1112,Rummelsburg,11011011
+8952330172,,,POINT (13.3754442 52.4550936),52.4550936,13.3754442,standalone,,"Alarichstraße, 12105, Berlin",unknown_atm,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+8972711700,24/7,,POINT (13.3565508 52.4806527),52.4806527,13.3565508,indoor,,"Torgauer Straße, 10829, Berlin",Berliner Volksbank,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+8989614464,,,POINT (13.3435296 52.50083),52.50083,13.3435296,standalone,,"Bayreuther Straße, 10789, Berlin",Berliner Volksbank,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+9028456436,,,POINT (13.4254591 52.479656),52.479656,13.4254591,indoor,,"Hermannstraße, 12049, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+9037817347,,,POINT (13.1938288 52.4309774),52.4309774,13.1938288,indoor,,"Hohenzollernplatz, 6, 14129, Berlin",Ing,Steglitz-Zehlendorf,0606,Nikolassee,11006006
+9038184112,,,POINT (13.3852874 52.4708274),52.4708274,13.3852874,standalone,,"Tempelhofer Damm, 12099, Berlin",Euronet,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+9043453328,24/7,,POINT (13.4389861 52.5006729),52.5006729,13.4389861,standalone,accessible,"Skalitzer Straße, 10997, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+9099183859,,,POINT (13.4417995 52.500519),52.500519,13.4417995,standalone,,"Oppelner Straße, 10997, Berlin",Ec Atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+9144971609,,,POINT (13.3785433 52.5443385),52.5443385,13.3785433,standalone,not accessible,"Hochstraße, 46, 13357, Berlin",Postbank,Mitte,0106,Gesundbrunnen,11001001
+9165913334,,,POINT (13.3799974 52.5714533),52.5714533,13.3799974,standalone,,"Provinzstraße, 13409, Berlin",Euronet,Reinickendorf,1201,Reinickendorf,11012012
+9174631305,,,POINT (13.3115965 52.5121533),52.5121533,13.3115965,standalone,,"Bismarckstraße, 10587, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+9186687243,,,POINT (13.3651855 52.5326784),52.5326784,13.3651855,standalone,,"George-Stephenson-Straße, 10557, Berlin",Sparkasse,Mitte,0102,Moabit,11001001
+9248155940,,,POINT (13.3466036 52.5505194),52.5505194,13.3466036,standalone,,"Kameruner Straße, 13353, Berlin",Cashzone,Mitte,0105,Wedding,11001001
+9249675889,,,POINT (13.4625423 52.5134399),52.5134399,13.4625423,standalone,,"Mainzer Straße, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+9254200508,,,POINT (13.4619352 52.5148134),52.5148134,13.4619352,standalone,,"Frankfurter Allee, 36B, 10247, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+9259616227,,,POINT (13.4746386 52.5144383),52.5144383,13.4746386,indoor,partially accessible,"Frankfurter Allee, 111 A, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+9274605335,24/7,,POINT (13.4318375 52.5355329),52.5355329,13.4318375,standalone,,"Chodowieckistraße, 10405, Berlin",Iccash Services,Pankow,0301,Prenzlauer Berg,11003003
+9274605336,24/7,,POINT (13.4249057 52.5332254),52.5332254,13.4249057,standalone,not accessible,"Winsstraße, 14, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+9291311729,,,POINT (13.4175136 52.5352316),52.5352316,13.4175136,standalone,,"Knaackstraße, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+9311174319,,,POINT (13.4127407 52.532647),52.532647,13.4127407,standalone,,"Schönhauser Allee, 10435, Berlin",unknown_atm,Pankow,0301,Prenzlauer Berg,11003003
+9410449830,,,POINT (13.4148571 52.489499),52.489499,13.4148571,standalone,,"Graefestraße, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+9421237668,,,POINT (13.3494922 52.4893485),52.4893485,13.3494922,standalone,,"Grunewaldstraße, 10823, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+9429620056,,,POINT (13.4605055 52.4927948),52.4927948,13.4605055,standalone,,"Puschkinallee, 12435, Berlin",Euronet,Treptow-Köpenick,0901,Alt-Treptow,11009009
+9442673613,,,POINT (13.3775038 52.4657395),52.4657395,13.3775038,standalone,,"Manteuffelstraße, 12099, Berlin",Euronet,Tempelhof-Schöneberg,0703,Tempelhof,11007007
+9448571319,24/7,,POINT (13.2409203 52.5433392),52.5433392,13.2409203,standalone,,"Gartenfelder Straße, 13599, Berlin",Euronet,Spandau,0502,Haselhorst,11005005
+9448586420,24/7,,POINT (13.2383784 52.5423881),52.5423881,13.2383784,standalone,,"Simonring, 13599, Berlin",Cashzone,Spandau,0502,Haselhorst,11005005
+9458740127,,,POINT (13.3521996 52.4851019),52.4851019,13.3521996,standalone,,"Eisenacher Straße, 10823, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+9458740131,,,POINT (13.3398504 52.4757375),52.4757375,13.3398504,standalone,,"Hähnelstraße, 12159, Berlin",unknown_atm,Tempelhof-Schöneberg,0702,Friedenau,11007007
+9461311203,,,POINT (13.3622709 52.5682865),52.5682865,13.3622709,standalone,,"Residenzstraße, 13409, Berlin",Iccash Services,Reinickendorf,1201,Reinickendorf,11012012
+9461313720,,,POINT (13.3589328 52.5743747),52.5743747,13.3589328,standalone,,"Alt-Reinickendorf, 13407, Berlin",Iccash Services,Reinickendorf,1201,Reinickendorf,11012012
+9495369683,,,POINT (13.3117127 52.4978694),52.4978694,13.3117127,indoor,,"Duisburger Straße, 10707, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+9556212659,24/7,,POINT (13.4959201 52.5350961),52.5350961,13.4959201,indoor,,"Landsberger Allee, 277, 13055, Berlin",unknown_atm,Lichtenberg,1110,Alt-Hohenschönhausen,11011011
+9556212666,,,POINT (13.4964244 52.5353947),52.5353947,13.4964244,standalone,,"Genslerstraße, 13055, Berlin",Postbank,Lichtenberg,1110,Alt-Hohenschönhausen,11011011
+9558603252,,,POINT (13.3339911 52.4705902),52.4705902,13.3339911,standalone,,"Rheinstraße, 9, 12159, Berlin",IC Cash Services,Tempelhof-Schöneberg,0702,Friedenau,11007007
+9558603253,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3332318 52.4698947),52.4698947,13.3332318,indoor,,"Rheinstraße, 12159, Berlin",Berliner Sparkasse,Tempelhof-Schöneberg,0702,Friedenau,11007007
+9624040747,,,POINT (13.296158 52.4993461),52.4993461,13.296158,standalone,,"Joachim-Friedrich-Straße, 10711, Berlin",Euronet,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+9654277571,,,POINT (13.1635048 52.5505314),52.5505314,13.1635048,standalone,,"Posthausweg, 13589, Berlin",unknown_atm,Spandau,0508,Falkenhagener Feld,11005005
+9662938813,,,POINT (13.3754119 52.5555862),52.5555862,13.3754119,standalone,,"Schwedenstraße, 13357, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+9675673126,,,POINT (13.373473 52.5655003),52.5655003,13.373473,standalone,,"Reginhardstraße, 13409, Berlin",unknown_atm,Reinickendorf,1201,Reinickendorf,11012012
+9724401347,,,POINT (13.3497784 52.5319436),52.5319436,13.3497784,standalone,accessible,"Perleberger Straße, 10559, Berlin",Euronet,Mitte,0102,Moabit,11001001
+9767791079,,,POINT (13.5367511 52.5263885),52.5263885,13.5367511,indoor,,"Allee der Kosmonauten, 12681, Berlin",Euronet,Marzahn-Hellersdorf,1001,Marzahn,11010010
+9775732023,24/7,,POINT (13.4168564 52.4996006),52.4996006,13.4168564,standalone,,"Reichenberger Straße, 10999, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+9794512266,,,POINT (13.3181587 52.4636097),52.4636097,13.3181587,standalone,,"Schildhornstraße, 12163, Berlin",Euronet,Steglitz-Zehlendorf,0601,Steglitz,11006006
+9794653130,,,POINT (13.324188 52.4633133),52.4633133,13.324188,standalone,,"Betty-Katz-Straße, 12163, Berlin",Reisebank,Steglitz-Zehlendorf,0601,Steglitz,11006006
+9798584494,,,POINT (13.2024139 52.5367766),52.5367766,13.2024139,standalone,,"Carl-Schurz-Straße, 13597, Berlin",Euronet,Spandau,0501,Spandau,11005005
+9809878630,24/7,,POINT (13.5879824 52.508882),52.508882,13.5879824,standalone,not accessible,"Mädewalder Weg, 12621, Berlin",Sparkasse,Marzahn-Hellersdorf,1003,Kaulsdorf,11010010
+9824680605,,,POINT (13.2070581 52.55013),52.55013,13.2070581,indoor,,"Neue Bergstraße, 13585, Berlin",Berliner Sparkasse,Spandau,0501,Spandau,11005005
+9837099329,,,POINT (13.3260875 52.4553728),52.4553728,13.3260875,standalone,,"Albrechtstraße, 12167, Berlin",Euronet,Steglitz-Zehlendorf,0601,Steglitz,11006006
+9851080876,,,POINT (13.328012 52.5272956),52.5272956,13.328012,standalone,,"Huttenstraße, 10553, Berlin",Cashzone,Mitte,0102,Moabit,11001001
+9855986757,,,POINT (13.3874517 52.5032465),52.5032465,13.3874517,standalone,,"Wilhelmstraße, 10963, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+9861732218,24/7,,POINT (13.2423155 52.4444641),52.4444641,13.2423155,standalone,,"Argentinische Allee, 14163, Berlin",Ing,Steglitz-Zehlendorf,0604,Zehlendorf,11006006
+9903340818,,,POINT (13.4185557 52.4979566),52.4979566,13.4185557,standalone,,"Kottbusser Straße, 10999, Berlin",Euronet Worldwide,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+9903501367,,,POINT (13.3468759 52.553579),52.553579,13.3468759,standalone,,"Müllerstraße, 13349, Berlin",Iccash Services,Mitte,0105,Wedding,11001001
+9913257706,,,POINT (13.1853577 52.5211748),52.5211748,13.1853577,standalone,,"Wilhelmstraße, 13593, Berlin",Ing,Spandau,0509,Wilhelmstadt,11005005
+9923036798,,,POINT (13.1967868 52.5337038),52.5337038,13.1967868,standalone,,"Brunsbütteler Damm, 13581, Berlin",unknown_atm,Spandau,0501,Spandau,11005005
+9926920299,24/7,,POINT (13.4412019 52.4815701),52.4815701,13.4412019,standalone,,"Sonnenallee, 12045, Berlin",Ing Diba,Neukölln,0801,Neukölln,11008008
+9960153966,24/7,,POINT (13.4680364 52.5159939),52.5159939,13.4680364,standalone,,"Voigtstraße, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+9960153970,,,POINT (13.4676971 52.5146925),52.5146925,13.4676971,standalone,,"Voigtstraße, 10247, Berlin",Berliner Volksbank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+9965567941,,,POINT (13.5483672 52.5500329),52.5500329,13.5483672,standalone,,"Märkische Allee, 12679, Berlin",unknown_atm,Marzahn-Hellersdorf,1001,Marzahn,11010010
+9967781360,,,POINT (13.5490199 52.5433518),52.5433518,13.5490199,standalone,,"Marzahner Promenade, 12679, Berlin",Atm Geldautomat,Marzahn-Hellersdorf,1001,Marzahn,11010010
+9980842150,24/7,,POINT (13.3695963 52.5423065),52.5423065,13.3695963,standalone,,"Reinickendorfer Straße, 13347, Berlin",Euronet,Mitte,0105,Wedding,11001001
+9991258484,,,POINT (13.3532499 52.4981448),52.4981448,13.3532499,standalone,not accessible,"Nollendorfstraße, 10, 10777, Berlin",Iccash,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+9997774519,24/7,,POINT (13.3932506 52.5147953),52.5147953,13.3932506,standalone,accessible,"Markgrafenstraße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+10004677461,,,POINT (13.3736832 52.509924),52.509924,13.3736832,standalone,,"Potsdamer Straße, 10785, Berlin",Euronet,Mitte,0104,Tiergarten,11001001
+10011023592,24/7,,POINT (13.4065847 52.5544466),52.5544466,13.4065847,standalone,,"Bornholmer Straße, 10439, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10029592741,,,POINT (13.3886129 52.4924488),52.4924488,13.3886129,standalone,,"Gneisenaustraße, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+10035799727,24/7,,POINT (13.413249 52.5457404),52.5457404,13.413249,standalone,,"Schönhauser Allee, 10437, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+10035890557,24/7,,POINT (13.4125921 52.5424069),52.5424069,13.4125921,indoor,partially accessible,"Schönhauser Allee, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10042504839,24/7,,POINT (13.4122774 52.5287635),52.5287635,13.4122774,standalone,,"Straßburger Straße, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10051804537,,,POINT (13.3245656 52.4975305),52.4975305,13.3245656,standalone,,"Uhlandstraße, 10719, Berlin",IC Cash Services,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+10051807021,,,POINT (13.3240277 52.4973847),52.4973847,13.3240277,indoor,,"Uhlandstraße, 10719, Berlin",Euronet,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+10057200161,,,POINT (13.3265669 52.4647781),52.4647781,13.3265669,standalone,,"Bornstraße, 12163, Berlin",Reisebank Ag,Steglitz-Zehlendorf,0601,Steglitz,11006006
+10059494677,24/7,,POINT (13.4332 52.512),52.512,13.4332,standalone,accessible,"Koppenstraße, 10243, Berlin",Commerzbank,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+10078317259,24/7,,POINT (13.4168389 52.511486),52.511486,13.4168389,standalone,accessible,"Brückenstraße, 10179, Berlin",IC Cash Services,Mitte,0101,Mitte,11001001
+10089393865,,,POINT (13.3135913 52.5055405),52.5055405,13.3135913,standalone,,"Leibnizstraße, 10625, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+10103282850,24/7,,POINT (13.4244684 52.5327186),52.5327186,13.4244684,standalone,accessible,"Winsstraße, 10, 10405, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10109713861,,,POINT (13.332273 52.4938364),52.4938364,13.332273,standalone,,"Prager Platz, 10717, Berlin",Euronet,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+10124884246,,,POINT (13.357407 52.4876175),52.4876175,13.357407,standalone,,"Hauptstraße, 10827, Berlin",Iccash,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+10124884254,,,POINT (13.3587314 52.4883851),52.4883851,13.3587314,standalone,,"Hauptstraße, 10827, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+10159474258,,,POINT (13.4416066 52.5009042),52.5009042,13.4416066,indoor,not accessible,"Oppelner Straße, 10997, Berlin",Sparkasse,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+10162533745,Mo-Su 06:00-22:00,,POINT (13.3321741 52.4712741),52.4712741,13.3321741,indoor,,"Handjerystraße / Renée-Sintenis-Platz, 12159, Berlin",Bbbank,Tempelhof-Schöneberg,0702,Friedenau,11007007
+10168193409,24/7,,POINT (13.4212633 52.5419574),52.5419574,13.4212633,standalone,accessible,"Raumerstraße, 35, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10169532503,,,POINT (13.4584853 52.5111673),52.5111673,13.4584853,indoor,,"Gabriel-Max-Straße, 10245, Berlin",Ec,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+10169666159,24/7,,POINT (13.398313 52.5272024),52.5272024,13.398313,standalone,,"Große Hamburger Straße, 42, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+10169666160,24/7,,POINT (13.4016746 52.5279788),52.5279788,13.4016746,standalone,,"Auguststraße, 47A, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+10172443600,,,POINT (13.2915944 52.6329095),52.6329095,13.2915944,indoor,accessible,"Zeltinger Platz, 14, 13465, Berlin",Postbank,Reinickendorf,1205,Frohnau,11012012
+10180488842,,,POINT (13.3712576 52.4928077),52.4928077,13.3712576,standalone,,"Yorckstraße, 35-42, 10965, Berlin",Euronet Worldwide,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+10188548945,,,POINT (13.4068223 52.4982287),52.4982287,13.4068223,standalone,,"Gitschiner Straße, 10969, Berlin",Iccash Services,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+10188548950,,,POINT (13.3880573 52.4938199),52.4938199,13.3880573,standalone,,"Mehringdamm, 10961, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+10188735075,24/7,,POINT (13.4471167 52.503497),52.503497,13.4471167,standalone,accessible,"Warschauer Straße, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+10188735076,,,POINT (13.4199791 52.4989509),52.4989509,13.4199791,standalone,,"Skalitzer Straße, 10999, Berlin",Sparkasse,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+10238653406,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3710057 52.5397752),52.5397752,13.3710057,indoor,,"Schulzendorfer Straße, 1, 13347, Berlin",Berliner Sparkasse,Mitte,0106,Gesundbrunnen,11001001
+10250417152,,,POINT (13.5254131 52.4801568),52.4801568,13.5254131,standalone,,"Am Carlsgarten, 10318, Berlin",Cashzone,Lichtenberg,1102,Karlshorst,11011011
+10291340547,,,POINT (13.4432006 52.5108236),52.5108236,13.4432006,standalone,,"Rüdersdorfer Straße, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+10313211301,24/7,,POINT (13.3634453 52.5488524),52.5488524,13.3634453,indoor,accessible,"Schulstraße, 13347, Berlin",Euronet,Mitte,0105,Wedding,11001001
+10315214313,,,POINT (13.3285554 52.4661338),52.4661338,13.3285554,standalone,accessible,"Bundesallee, 12161, Berlin",unknown_atm,Tempelhof-Schöneberg,0702,Friedenau,11007007
+10556441623,24/7,,POINT (13.4228537 52.539623),52.539623,13.4228537,standalone,accessible,"Danziger Straße, 65, 10435, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10593475188,,,POINT (13.3294471 52.5236514),52.5236514,13.3294471,standalone,,"Alt-Moabit, 10555, Berlin",Euronet,Mitte,0102,Moabit,11001001
+10595712933,,,POINT (13.4161781 52.5538157),52.5538157,13.4161781,standalone,,"Wisbyer Straße, 10439, Berlin",Euronet,Pankow,0307,Pankow,11003003
+10631143902,,,POINT (13.4047229 52.5401516),52.5401516,13.4047229,standalone,,"Schwedter Straße, 10435, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10635559300,,,POINT (13.4100394 52.5310347),52.5310347,13.4100394,standalone,,"Fehrbelliner Straße, 10119, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+10660904919,,,POINT (13.5304805 52.444006),52.444006,13.5304805,standalone,accessible,"Adlergestell, 12489, Berlin",Sparda-Bank Berlin,Treptow-Köpenick,0905,Niederschöneweide,11009009
+10661242123,,,POINT (13.4304444 52.4685803),52.4685803,13.4304444,standalone,,"Emser Straße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+10670071377,24/7,,POINT (13.3912316 52.5259317),52.5259317,13.3912316,standalone,,"Auguststraße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+10673401017,24/7,,POINT (13.3577241 52.5474331),52.5474331,13.3577241,indoor,,"Müllerstraße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+10674090914,24/7,,POINT (13.3554613 52.54871),52.54871,13.3554613,standalone,,"Müllerstraße, 13353, Berlin",İŞbank,Mitte,0105,Wedding,11001001
+10678502951,,,POINT (13.4347771 52.4611804),52.4611804,13.4347771,standalone,,"Britzer Damm, 12347, Berlin",unknown_atm,Neukölln,0802,Britz,11008008
+10693118856,,,POINT (13.3749958 52.5083798),52.5083798,13.3749958,indoor,accessible,"Fontaneplatz, 10785, Berlin",Berliner Sparkasse,Mitte,0104,Tiergarten,11001001
+10740205681,,fee applies,POINT (13.3959771 52.4912576),52.4912576,13.3959771,indoor,not accessible,"Gneisenaustraße, 10961, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+10742023716,,,POINT (13.5383366 52.4339124),52.4339124,13.5383366,standalone,,"Rudower Chaussee, 12489, Berlin",Hypovereinsbank,Treptow-Köpenick,0907,Adlershof,11009009
+10748272766,,,POINT (13.4921113 52.6372384),52.6372384,13.4921113,standalone,,"Wiltbergstraße, 13125, Berlin",Euronet,Pankow,0309,Buch,11003003
+10763905454,24/7,,POINT (13.4058326 52.5286068),52.5286068,13.4058326,standalone,,"Linienstraße, 214, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+10770666282,,,POINT (13.4516601 52.5198414),52.5198414,13.4516601,standalone,,"Petersburger Straße, 10249, Berlin",IC Cash Services,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+10777479702,,,POINT (13.3005799 52.5259114),52.5259114,13.3005799,standalone,,"Osnabrücker Straße, 24, 10589, Berlin",Cashzone,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+10782683409,,,POINT (13.3234027 52.5064464),52.5064464,13.3234027,standalone,,"Carmerstraße, 9, 10623, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+10815778048,,,POINT (13.4850603 52.4241805),52.4241805,13.4850603,standalone,,"Neuköllner Straße, 12357, Berlin",Cashzone,Neukölln,0805,Gropiusstadt,11008008
+10816746848,,,POINT (13.3155965 52.4490978),52.4490978,13.3155965,standalone,,"Hindenburgdamm, 12203, Berlin",Euronet,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+10816834028,,,POINT (13.3149601 52.4468076),52.4468076,13.3149601,standalone,,"Manteuffelstraße, 12203, Berlin",Euronet,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+10816834033,,,POINT (13.3150365 52.448346),52.448346,13.3150365,standalone,,"Hindenburgdamm, 76, 12203, Berlin",Euronet,Steglitz-Zehlendorf,0602,Lichterfelde,11006006
+10839255824,,,POINT (13.3324552 52.4636682),52.4636682,13.3324552,standalone,,"Feuerbachstraße, 12163, Berlin",Cashzone,Steglitz-Zehlendorf,0601,Steglitz,11006006
+10863618205,24/7,,POINT (13.4391497 52.5236696),52.5236696,13.4391497,standalone,not accessible,"Landsberger Allee, 38, 10249, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+10868879252,,,POINT (13.3637703 52.5434051),52.5434051,13.3637703,standalone,,"Burgsdorfstraße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+10868932174,,,POINT (13.3633522 52.543785),52.543785,13.3633522,standalone,,"Müllerstraße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+10916923835,,,POINT (13.449956 52.479354),52.479354,13.449956,standalone,,"Treptower Straße, 12059, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+10961959738,,,POINT (13.3212269 52.4560028),52.4560028,13.3212269,standalone,,"Kuhligkshofstraße, 12165, Berlin",Sparkasse,Steglitz-Zehlendorf,0601,Steglitz,11006006
+10965536007,,,POINT (13.3873369 52.549753),52.549753,13.3873369,indoor,,"Badstraße, 4, 13357, Berlin",Sb Self-Service,Mitte,0106,Gesundbrunnen,11001001
+10984074838,,,POINT (13.3550788 52.5970797),52.5970797,13.3550788,standalone,,"Senftenberger Ring, 3a, 13439, Berlin",Berliner Sparkasse,Reinickendorf,1210,Märkisches Viertel,11012012
+11018699614,,,POINT (13.4111801 52.5240941),52.5240941,13.4111801,standalone,,"Memhardstraße, 10178, Berlin",Iccash,Mitte,0101,Mitte,11001001
+11026370110,,,POINT (13.3964779 52.5667018),52.5667018,13.3964779,standalone,,"Pichelswerderstraße, 13187, Berlin",Euronet,Pankow,0307,Pankow,11003003
+11026518957,,,POINT (13.3917234 52.5639094),52.5639094,13.3917234,standalone,,"Kattegatstraße, 13359, Berlin",Cashzone,Mitte,0106,Gesundbrunnen,11001001
+11034356297,24/7,,POINT (13.414383 52.5508462),52.5508462,13.414383,standalone,accessible,"Wichertstraße, 10439, Berlin",Berliner Sparkasse,Pankow,0301,Prenzlauer Berg,11003003
+11035951197,,,POINT (13.3463631 52.4976624),52.4976624,13.3463631,standalone,,"Martin-Luther-Straße, 10777, Berlin",Cashzone,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+11051639050,,,POINT (13.3201048 52.4772955),52.4772955,13.3201048,standalone,,"Laubacher Straße, 14197, Berlin",Euronet,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+11055086474,,,POINT (13.4624424 52.4246809),52.4246809,13.4624424,indoor,,"Lipschitzplatz, 12353, Berlin",Cashzone,Neukölln,0805,Gropiusstadt,11008008
+11055346546,,,POINT (13.1972381 52.5211369),52.5211369,13.1972381,standalone,,"Adamstraße, 13595, Berlin",Berliner Volksbank,Spandau,0509,Wilhelmstadt,11005005
+11062226565,,,POINT (13.3891118 52.5124841),52.5124841,13.3891118,indoor,accessible,"Anton-Wilhelm-Amo-Straße, 10117, Berlin",Deutsche Bank,Mitte,0101,Mitte,11001001
+11063661258,,,POINT (13.4292602 52.4844451),52.4844451,13.4292602,standalone,,"Reuterstraße, 18-19, 12043, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+11063661259,24/7,,POINT (13.4322056 52.482936),52.482936,13.4322056,standalone,,"Karl-Marx-Straße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+11067275896,,,POINT (13.3282302 52.5676099),52.5676099,13.3282302,indoor,,"Ollenhauerstraße, 122, 13403, Berlin",Sparkasse,Reinickendorf,1201,Reinickendorf,11012012
+11068066936,,,POINT (13.315932 52.5057103),52.5057103,13.315932,standalone,,"Wielandstraße, 10625, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+11078136008,,,POINT (13.2796932 52.5181827),52.5181827,13.2796932,standalone,,"Spandauer Damm, 14059, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+11078146106,,,POINT (13.2847305 52.5188479),52.5188479,13.2847305,standalone,,"Spandauer Damm, 90, 14059, Berlin",unknown_atm,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+11078324006,,,POINT (13.2105596 52.5272206),52.5272206,13.2105596,standalone,,"Schulenburgstraße, 13597, Berlin",unknown_atm,Spandau,0509,Wilhelmstadt,11005005
+11079063649,,,POINT (13.3849433 52.5506418),52.5506418,13.3849433,standalone,,"Badstraße, 13357, Berlin",Iccash,Mitte,0106,Gesundbrunnen,11001001
+11112715589,,,POINT (13.3878464 52.4937328),52.4937328,13.3878464,indoor,,"Mehringdamm, 10961, Berlin",Deutsche Bank,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11123415222,,,POINT (13.4262824 52.4876773),52.4876773,13.4262824,standalone,,"Sonnenallee, 12047, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+11123415223,,,POINT (13.4259363 52.4878035),52.4878035,13.4259363,standalone,,"Sonnenallee, 12047, Berlin",Iccash Services,Neukölln,0801,Neukölln,11008008
+11124193793,,,POINT (13.4264469 52.5316103),52.5316103,13.4264469,standalone,,"Immanuelkirchstraße, 15, 10405, Berlin",Euronet Worldwide,Pankow,0301,Prenzlauer Berg,11003003
+11126718524,,,POINT (13.416592 52.5430432),52.5430432,13.416592,standalone,,"Lychener Straße, 10437, Berlin",Euronet Worldwide,Pankow,0301,Prenzlauer Berg,11003003
+11133766411,,,POINT (13.3768756 52.500336),52.500336,13.3768756,standalone,,"Tempelhofer Ufer, 10963, Berlin",Postbank,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11167382851,,,POINT (13.3830426 52.591963),52.591963,13.3830426,indoor,,"Friedrich-Engels-Straße, 13158, Berlin",Euronet,Pankow,0312,Rosenthal,11003003
+11190066804,,,POINT (13.4560773 52.474029),52.474029,13.4560773,standalone,,"Sonnenallee, 12059, Berlin",IC Cash Services,Neukölln,0801,Neukölln,11008008
+11194820937,,,POINT (13.4529774 52.5083955),52.5083955,13.4529774,standalone,,"Libauer Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+11194820938,,,POINT (13.4526174 52.5084359),52.5084359,13.4526174,standalone,,"Libauer Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+11234530967,,,POINT (13.323609 52.4560451),52.4560451,13.323609,standalone,not accessible,"Berlinickestraße, 12165, Berlin",unknown_atm,Steglitz-Zehlendorf,0601,Steglitz,11006006
+11262665299,,,POINT (13.4575069 52.4419647),52.4419647,13.4575069,standalone,,"Rudower Straße, 12351, Berlin",Cashzone,Neukölln,0803,Buckow,11008008
+11262665300,,,POINT (13.4565165 52.4420202),52.4420202,13.4565165,standalone,,"Rudower Straße, 12351, Berlin",unknown_atm,Neukölln,0803,Buckow,11008008
+11262665301,,,POINT (13.4570812 52.4424221),52.4424221,13.4570812,indoor,,"Rudower Straße, 12351, Berlin",Euronet Worldwide,Neukölln,0803,Buckow,11008008
+11263294648,24/7,,POINT (13.3584382 52.546579),52.546579,13.3584382,standalone,,"Müllerstraße, 151, 13353, Berlin",Berliner Volksbank,Mitte,0105,Wedding,11001001
+11269771827,,,POINT (13.4317245 52.4673848),52.4673848,13.4317245,standalone,,"Hermannstraße, 12051, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+11274457080,,,POINT (13.3721541 52.544043),52.544043,13.3721541,standalone,,"Gerichtstraße, 65, 13347, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+11285584349,,,POINT (13.4390617 52.4764126),52.4764126,13.4390617,standalone,,"Karl-Marx-Straße, 12043, Berlin",Iccash Services,Neukölln,0801,Neukölln,11008008
+11295776568,,,POINT (13.408442 52.4894829),52.4894829,13.408442,standalone,,"Körtestraße, 35, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11307753569,24/7,,POINT (13.4079356 52.5049891),52.5049891,13.4079356,standalone,,"Oranienstraße, 10969, Berlin",Tekel Shop,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11341391405,,,POINT (13.3453045 52.4853442),52.4853442,13.3453045,standalone,accessible,"Martin-Luther-Straße, 10825, Berlin",Euronet Worldwide,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+11363525781,,,POINT (13.4519209 52.5124599),52.5124599,13.4519209,standalone,,"Grünberger Straße, 10243, Berlin",Euronet Worldwide,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+11392344692,24/7,,POINT (13.3786288 52.5658824),52.5658824,13.3786288,standalone,accessible,"Kühnemannstraße, 13409, Berlin",Euronet,Mitte,0106,Gesundbrunnen,11001001
+11393911313,,,POINT (13.4257473 52.4793523),52.4793523,13.4257473,standalone,,"Hermannstraße, 12049, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+11415507271,24/7,,POINT (13.4124872 52.5393476),52.5393476,13.4124872,standalone,,"Schönhauser Allee, 10435, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+11449543951,,,POINT (13.3557938 52.4864401),52.4864401,13.3557938,standalone,,"Akazienstraße, 10823, Berlin",unknown_atm,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+11491681231,,,POINT (13.3317626 52.5269088),52.5269088,13.3317626,standalone,,"Turmstraße, 10551, Berlin",IC Cash Services,Mitte,0102,Moabit,11001001
+11509997907,,,POINT (13.4673967 52.56177),52.56177,13.4673967,standalone,,"Gehringstraße, 13088, Berlin",Berliner Sparkasse,Pankow,0302,Weißensee,11003003
+11531343542,,fee applies,POINT (13.2408239 52.5103848),52.5103848,13.2408239,standalone,,"Flatowallee, 14055, Berlin",Euronet,Charlottenburg-Wilmersdorf,0405,Westend,11004004
+11559591554,24/7,,POINT (13.5766431 52.4553866),52.4553866,13.5766431,standalone,not accessible,"Bahnhofstraße, 12555, Berlin",Euronet,Treptow-Köpenick,0910,Köpenick,11009009
+11563640147,,,POINT (13.3843296 52.5563728),52.5563728,13.3843296,standalone,,"Prinzenallee, 13359, Berlin",Cashzone,Mitte,0106,Gesundbrunnen,11001001
+11564537944,,,POINT (13.3932999 52.5642993),52.5642993,13.3932999,standalone,,"Wollankstraße, 100, 13359, Berlin",Cashzone,Mitte,0106,Gesundbrunnen,11001001
+11595987629,,,POINT (13.3312378 52.4947612),52.4947612,13.3312378,standalone,,"Bundesallee, 10717, Berlin",Berliner Volksbank eG,Charlottenburg-Wilmersdorf,0402,Wilmersdorf,11004004
+11613447909,,,POINT (13.421031 52.4770672),52.4770672,13.421031,standalone,,"Herrfurthstraße, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+11630186939,06:00-23:00,,POINT (13.3583888 52.5465489),52.5465489,13.3583888,indoor,not accessible,"Müllerstraße, 151, 13353, Berlin",Berliner Volksbank,Mitte,0105,Wedding,11001001
+11630186940,06:00-23:00,,POINT (13.358358 52.5465298),52.5465298,13.358358,indoor,not accessible,"Müllerstraße, 151, 13353, Berlin",Berliner Volksbank,Mitte,0105,Wedding,11001001
+11630186941,06:00-23:00,,POINT (13.3583195 52.5465256),52.5465256,13.3583195,indoor,not accessible,"Müllerstraße, 151, 13353, Berlin",Berliner Volksbank,Mitte,0105,Wedding,11001001
+11638232177,,,POINT (13.4347485 52.4612247),52.4612247,13.4347485,standalone,accessible,"Britzer Damm, 12347, Berlin",Cashzone,Neukölln,0802,Britz,11008008
+11638242428,,,POINT (13.4341042 52.4633427),52.4633427,13.4341042,standalone,,"Juliusstraße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+11639130929,,,POINT (13.3827585 52.5241157),52.5241157,13.3827585,indoor,,"Schumannstraße, 10, 10117, Berlin",Gls Gemeinschaftsbank eG,Mitte,0101,Mitte,11001001
+11645663178,,,POINT (13.4327624 52.4652971),52.4652971,13.4327624,standalone,,"Hermannstraße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+11645663273,,,POINT (13.4332163 52.4644337),52.4644337,13.4332163,standalone,,"Hermannstraße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+11681037903,,,POINT (13.4313132 52.4830114),52.4830114,13.4313132,standalone,,"Karl-Marx-Straße, 12043, Berlin",Cashzone,Neukölln,0801,Neukölln,11008008
+11721662603,,,POINT (13.3880454 52.5233233),52.5233233,13.3880454,standalone,,"Ziegelstraße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+11721671073,24/7,,POINT (13.5409978 52.4350857),52.4350857,13.5409978,standalone,,"Rudower Chaussee, 12489, Berlin",Euronet,Treptow-Köpenick,0907,Adlershof,11009009
+11727959791,,,POINT (13.388724 52.519083),52.519083,13.388724,standalone,,"Friedrichstraße, 10117, Berlin",Berliner Volksbank,Mitte,0101,Mitte,11001001
+11738874383,,,POINT (13.4412215 52.4696577),52.4696577,13.4412215,standalone,,"Emser Straße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+11800101422,,,POINT (13.4176551 52.498559),52.498559,13.4176551,indoor,,"Skalitzer Straße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11806794237,,,POINT (13.2964609 52.5109935),52.5109935,13.2964609,standalone,,"Sophie-Charlotte-Platz, 14057, Berlin",Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+11816349026,,,POINT (13.5612685 52.5056349),52.5056349,13.5612685,standalone,,"Elsterwerdaer Platz, 12683, Berlin",Postbank,Marzahn-Hellersdorf,1002,Biesdorf,11010010
+11834563285,,,POINT (13.4140586 52.5477232),52.5477232,13.4140586,standalone,,"Stargarder Straße, 10437, Berlin",Iccash,Pankow,0301,Prenzlauer Berg,11003003
+11834587819,,,POINT (13.3894966 52.5486723),52.5486723,13.3894966,standalone,,"Hanne-Sobek-Platz, 13357, Berlin",Reisebank,Mitte,0106,Gesundbrunnen,11001001
+11834748692,,,POINT (13.4140513 52.5474813),52.5474813,13.4140513,standalone,,"Stargarder Straße, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+11834748943,,,POINT (13.4079372 52.547088),52.547088,13.4079372,standalone,,"Gleimstraße, 10437, Berlin",Euronet Worldwide,Pankow,0301,Prenzlauer Berg,11003003
+11848280363,,,POINT (13.3798845 52.5221833),52.5221833,13.3798845,indoor,,"Luisenstraße, 10117, Berlin",Bbbank,Mitte,0101,Mitte,11001001
+11904854864,,,POINT (13.4102254 52.4904044),52.4904044,13.4102254,standalone,,"Körtestraße, 10967, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11909223682,24/7,,POINT (13.4181176 52.5016939),52.5016939,13.4181176,standalone,,"Oranienstraße, 34, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11909223683,,,POINT (13.4179529 52.5017399),52.5017399,13.4179529,standalone,,"Oranienstraße, 36, 10999, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11918209453,24/7,,POINT (13.4171602 52.5127263),52.5127263,13.4171602,standalone,,"Brückenstraße, 10179, Berlin",Euronet,Mitte,0101,Mitte,11001001
+11936669169,,,POINT (13.4408273 52.4991562),52.4991562,13.4408273,standalone,,"Wrangelstraße, 10997, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11945110092,,,POINT (13.4183408 52.5001196),52.5001196,13.4183408,standalone,,"Adalbertstraße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11945116648,,,POINT (13.4179711 52.4997627),52.4997627,13.4179711,standalone,,"Adalbertstraße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11945136227,,,POINT (13.4217933 52.4939039),52.4939039,13.4217933,standalone,,"Kottbusser Damm, 10967, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+11945138591,,,POINT (13.4210497 52.495036),52.495036,13.4210497,standalone,,"Kottbusser Damm, 10967, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+11946056321,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3710263 52.5397687),52.5397687,13.3710263,indoor,,"Schulzendorfer Straße, 1, 13347, Berlin",Berliner Sparkasse,Mitte,0106,Gesundbrunnen,11001001
+11956388580,,,POINT (13.4511824 52.5083971),52.5083971,13.4511824,indoor,,"Revaler Straße, 10243, Berlin",Euronet Atm,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+11978766931,24/7,,POINT (13.4258326 52.5302181),52.5302181,13.4258326,standalone,,"Greifswalder Straße, 225, 10405, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+11986351452,,,POINT (13.411832 52.5422596),52.5422596,13.411832,indoor,not accessible,"Schönhauser Allee, 140, 10437, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+11990120304,,,POINT (13.4263829 52.476518),52.476518,13.4263829,indoor,,"Hermannstraße, 58, 12049, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+12001595629,24/7,,POINT (13.4007535 52.5297418),52.5297418,13.4007535,standalone,partially accessible,"Brunnenstraße, 198, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12038068311,24/7,,POINT (13.4363092 52.483764),52.483764,13.4363092,standalone,,"Sonnenallee, 75, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+12038369714,24/7,,POINT (13.3904669 52.5197199),52.5197199,13.3904669,standalone,,"Planckstraße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12047986636,24/7,,POINT (13.4171763 52.4991069),52.4991069,13.4171763,standalone,,"Skalitzer Straße, 138, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12056174962,,,POINT (13.4526346 52.5241839),52.5241839,13.4526346,standalone,,"Ebelingstraße, 10249, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12062127154,24/7,,POINT (13.4380215 52.4931047),52.4931047,13.4380215,standalone,,"Reichenberger Straße, 89, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12062127168,24/7,,POINT (13.434024 52.4942888),52.4942888,13.434024,standalone,,"Reichenberger Straße, 73a, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12062153429,24/7,,POINT (13.4262803 52.4965715),52.4965715,13.4262803,standalone,,"Reichenberger Straße, 48, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12062153431,24/7,,POINT (13.4258362 52.4970319),52.4970319,13.4258362,standalone,,"Reichenberger Straße, 147, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12086091448,,,POINT (13.4138379 52.5480254),52.5480254,13.4138379,standalone,,"Schönhauser Allee, 70 E, 10437, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+12094038058,,,POINT (13.4162148 52.5235994),52.5235994,13.4162148,standalone,,"Bernhard-Weiß-Straße, 10178, Berlin",Euronet Worldwide,Mitte,0101,Mitte,11001001
+12107944505,,,POINT (13.5617463 52.4456911),52.4456911,13.5617463,indoor,,"Oberspreestraße, 12555, Berlin",Postbank,Treptow-Köpenick,0910,Köpenick,11009009
+12118440267,,,POINT (13.405844 52.5322969),52.5322969,13.405844,indoor,partially accessible,"Fehrbelliner Straße, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12143075550,24/7,,POINT (13.4494609 52.4970801),52.4970801,13.4494609,standalone,,"Vor dem Schlesischen Tor, 10997, Berlin",Iccash,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12153688856,,,POINT (13.4925915 52.5443152),52.5443152,13.4925915,standalone,,"Konrad-Wolf-Straße, 13055, Berlin",Iccash Services,Lichtenberg,1110,Alt-Hohenschönhausen,11011011
+12170366306,,,POINT (13.4407631 52.4673839),52.4673839,13.4407631,standalone,,"Silbersteinstraße, 12051, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+12178058781,,,POINT (13.2954422 52.4981046),52.4981046,13.2954422,standalone,,"Kurfürstendamm, 10711, Berlin",Euronet Worldwide,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+12178195994,,,POINT (13.2937021 52.4973421),52.4973421,13.2937021,standalone,,"Kurfürstendamm, 10711, Berlin",Euronet,Charlottenburg-Wilmersdorf,0407,Halensee,11004004
+12179199776,,,POINT (13.2492971 52.5387463),52.5387463,13.2492971,indoor,,"Nonnendammallee, 121, 13629, Berlin",Postbank,Spandau,0503,Siemensstadt,11005005
+12180084576,,,POINT (13.4202798 52.5364785),52.5364785,13.4202798,standalone,not accessible,"Rykestraße, 10405, Berlin",Euronet Worldwide,Pankow,0301,Prenzlauer Berg,11003003
+12190075487,,,POINT (13.3339533 52.5270442),52.5270442,13.3339533,standalone,,"Turmstraße, 10551, Berlin",Cashzone,Mitte,0102,Moabit,11001001
+12206573226,,,POINT (13.4455685 52.4621398),52.4621398,13.4455685,standalone,,"Buschkrugallee, 12359, Berlin",unknown_atm,Neukölln,0802,Britz,11008008
+12216486501,,,POINT (13.458121 52.5097199),52.5097199,13.458121,standalone,,"Gabriel-Max-Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12227999866,,,POINT (13.4021068 52.5108236),52.5108236,13.4021068,standalone,,"Seydelstraße, 10117, Berlin",Sparkasse,Mitte,0101,Mitte,11001001
+12234724305,,,POINT (13.4569146 52.5110661),52.5110661,13.4569146,standalone,,"Simon-Dach-Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12255153814,,,POINT (13.3982679 52.5390691),52.5390691,13.3982679,standalone,,"Bernauer Straße, 13355, Berlin",Euronet Worldwide,Mitte,0106,Gesundbrunnen,11001001
+12255768602,,,POINT (13.3358491 52.5265618),52.5265618,13.3358491,standalone,,"Turmstraße, 10551, Berlin",Transact Elektronische Zahlungssysteme GmbH,Mitte,0102,Moabit,11001001
+12269879892,,,POINT (13.4387585 52.4769894),52.4769894,13.4387585,standalone,,"Karl-Marx-Straße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+12278369082,,,POINT (13.4662389 52.5024761),52.5024761,13.4662389,standalone,,"Markgrafendamm, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12278420703,24/7,,POINT (13.5101572 52.4567992),52.4567992,13.5101572,standalone,accessible,"Brückenstraße, 12439, Berlin",Euronet,Treptow-Köpenick,0905,Niederschöneweide,11009009
+12285036507,,,POINT (13.4530599 52.5191925),52.5191925,13.4530599,standalone,,"Petersburger Straße, 10249, Berlin",Euronet Worldwide,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12323826621,,,POINT (13.436432 52.5529665),52.5529665,13.436432,standalone,,"Langhansstraße, 13086, Berlin",Euronet,Pankow,0302,Weißensee,11003003
+12364328083,,,POINT (13.3463675 52.5040939),52.5040939,13.3463675,standalone,,"Kurfürstenstraße, 10787, Berlin",Euronet,Mitte,0104,Tiergarten,11001001
+12400084790,,,POINT (13.4108417 52.5036353),52.5036353,13.4108417,standalone,,"Prinzenstraße, 10969, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12420867432,,,POINT (13.4063821 52.4986087),52.4986087,13.4063821,standalone,,"Gitschiner Straße, 10969, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12435791508,,,POINT (13.4101358 52.527832),52.527832,13.4101358,indoor,,"Almstadtstraße, 10119, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12504464253,,,POINT (13.3801428 52.51009),52.51009,13.3801428,standalone,accessible,"Leipziger Straße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12514289885,,,POINT (13.3831017 52.5110555),52.5110555,13.3831017,standalone,accessible,"Leipziger Platz, 12, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12514289886,,,POINT (13.3831082 52.5105914),52.5105914,13.3831082,standalone,accessible,"Leipziger Platz, 12, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12514289887,,,POINT (13.3807709 52.5109007),52.5109007,13.3807709,standalone,accessible,"Leipziger Platz, 12, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12514289888,,,POINT (13.3801733 52.5100982),52.5100982,13.3801733,standalone,accessible,"Leipziger Straße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12514289889,,,POINT (13.383125 52.5106139),52.5106139,13.383125,standalone,accessible,"Leipziger Platz, 12, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12514289890,,,POINT (13.3831263 52.5106124),52.5106124,13.3831263,standalone,accessible,"Leipziger Platz, 12, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12514289891,,,POINT (13.3807904 52.5104607),52.5104607,13.3807904,standalone,accessible,"Leipziger Platz, 12, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12568580009,,,POINT (13.3065973 52.50582),52.50582,13.3065973,standalone,,"Wilmersdorfer Straße, 10627, Berlin",Euronet,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+12613103311,,,POINT (13.3492529 52.4898861),52.4898861,13.3492529,standalone,,"Eisenacher Straße, 10781, Berlin",Iccash,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+12618400776,,,POINT (13.3803292 52.5058226),52.5058226,13.3803292,standalone,,"Stresemannstraße, 10963, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12634503008,,,POINT (13.369441 52.5435338),52.5435338,13.369441,standalone,,"Reinickendorfer Straße, 13347, Berlin",unknown_atm,Mitte,0105,Wedding,11001001
+12649658328,,,POINT (13.4353398 52.5111445),52.5111445,13.4353398,standalone,,"Erich-Steinfurth-Straße, 10243, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12716441373,,,POINT (13.3907334 52.5102716),52.5102716,13.3907334,standalone,,"Leipziger Straße, 10117, Berlin",Ziraatbank,Mitte,0101,Mitte,11001001
+12716554589,,,POINT (13.3931105 52.5067607),52.5067607,13.3931105,standalone,,"Rudi-Dutschke-Straße, 10969, Berlin",Berliner Sparkasse,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12716573051,,,POINT (13.3919413 52.5076808),52.5076808,13.3919413,standalone,,"Zimmerstraße, 10117, Berlin",Olb,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12716579714,,,POINT (13.3913082 52.5076453),52.5076453,13.3913082,standalone,,"Zimmerstraße, 10117, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12716721823,,,POINT (13.3926913 52.5121802),52.5121802,13.3926913,standalone,,"Anton-Wilhelm-Amo-Straße, 10117, Berlin",Euronet,Mitte,0101,Mitte,11001001
+12717735447,,,POINT (13.3955714 52.5030058),52.5030058,13.3955714,standalone,,"Am Berlin Museum, 10969, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12734218601,24/7,,POINT (13.4139932 52.5205449),52.5205449,13.4139932,standalone,,"10178, Berlin",Sparkasse,Mitte,0101,Mitte,11001001
+12742213200,06:00-23:00,,POINT (13.3229005 52.458802),52.458802,13.3229005,indoor,accessible,"Schloßstraße, 97, 12163, Berlin",Sparda-Bank Berlin,Steglitz-Zehlendorf,0601,Steglitz,11006006
+12757988967,,,POINT (13.4531984 52.5103757),52.5103757,13.4531984,standalone,,"Kopernikusstraße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12763254356,,,POINT (13.5304241 52.5251796),52.5251796,13.5304241,standalone,,"Allee der Kosmonauten, 12681, Berlin",Euronet,Marzahn-Hellersdorf,1001,Marzahn,11010010
+12766623276,,,POINT (13.3503458 52.547216),52.547216,13.3503458,standalone,,"Brüsseler Straße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+12766664907,,,POINT (13.346997 52.5474381),52.5474381,13.346997,standalone,,"Lütticher Straße, 13353, Berlin",Euronet,Mitte,0105,Wedding,11001001
+12796200240,,,POINT (13.3904369 52.5081697),52.5081697,13.3904369,standalone,,"Friedrichstraße, 10117, Berlin",unknown_atm,Mitte,0101,Mitte,11001001
+12801714150,,,POINT (13.3450425 52.5264184),52.5264184,13.3450425,standalone,,"Turmstraße, 10559, Berlin",Euronet,Mitte,0102,Moabit,11001001
+12801738801,,,POINT (13.426188 52.5118742),52.5118742,13.426188,standalone,,"Holzmarktstraße, 10243, Berlin",Moneyserv,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12803985686,,,POINT (13.430906 52.4975766),52.4975766,13.430906,standalone,,"Wiener Straße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12805749505,,,POINT (13.4291563 52.4981648),52.4981648,13.4291563,standalone,,"Wiener Straße, 10999, Berlin",Euronet,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+12842725215,,,POINT (13.3423031 52.5361301),52.5361301,13.3423031,standalone,,"Ellen-Epstein-Straße, 10551, Berlin",unknown_atm,Mitte,0102,Moabit,11001001
+12842764502,,,POINT (13.4007719 52.5235801),52.5235801,13.4007719,standalone,,"Oranienburger Straße, 10178, Berlin",Euronet Atm,Mitte,0101,Mitte,11001001
+12847195905,,,POINT (13.4267222 52.5445348),52.5445348,13.4267222,indoor,,"Prenzlauer Allee, 10405, Berlin",Cashzone,Pankow,0301,Prenzlauer Berg,11003003
+12847381636,24/7,,POINT (13.462534 52.5151338),52.5151338,13.462534,standalone,,"Frankfurter Allee, 10247, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12848518997,,,POINT (13.5548643 52.5132745),52.5132745,13.5548643,standalone,,"Wuhlgartenweg, 12683, Berlin",IC Cash Services,Marzahn-Hellersdorf,1002,Biesdorf,11010010
+12850505449,,,POINT (13.4773241 52.5018027),52.5018027,13.4773241,standalone,accessible,"Nöldnerstraße, 10317, Berlin",Euronet,Lichtenberg,1112,Rummelsburg,11011011
+12860583364,,,POINT (13.4108903 52.5215173),52.5215173,13.4108903,standalone,,"Gontardstraße, 10178, Berlin",unknown_atm,Mitte,0101,Mitte,11001001
+12860637966,,,POINT (13.4255716 52.5423587),52.5423587,13.4255716,standalone,,"Hiddenseer Straße, 10437, Berlin",unknown_atm,Pankow,0301,Prenzlauer Berg,11003003
+12956544810,,,POINT (13.4546009 52.5122187),52.5122187,13.4546009,standalone,,"Grünberger Straße, 10245, Berlin",IC Cash Services,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+12973215268,Mo-Fr 06:00-23:00; Sa-Su 08:00-23:00,,POINT (13.3215307 52.5060664),52.5060664,13.3215307,indoor,,"Kantstraße, 10623, Berlin",Berliner Sparkasse,Charlottenburg-Wilmersdorf,0401,Charlottenburg,11004004
+13009063153,,,POINT (13.3880924 52.5274913),52.5274913,13.3880924,standalone,,"Torstraße, 10115, Berlin",IC Cash Services,Mitte,0101,Mitte,11001001
+13026042292,,,POINT (13.445682 52.5054547),52.5054547,13.445682,standalone,,"Tamara-Danz-Straße, 10243, Berlin",Moneyserv,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+13026079594,,,POINT (13.4475875 52.5040837),52.5040837,13.4475875,standalone,,"Warschauer Straße, 10243, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+13035123640,,,POINT (13.3878942 52.5330248),52.5330248,13.3878942,standalone,,"Gartenstraße, 10115, Berlin",Euronet,Mitte,0101,Mitte,11001001
+13069486501,24/7,,POINT (13.4288133 52.4994861),52.4994861,13.4288133,standalone,,"Skalitzer Straße, 99, 10997, Berlin",Euronet Atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+13088864006,,,POINT (13.411293 52.5125977),52.5125977,13.411293,standalone,,"Wallstraße, 10179, Berlin",Euronet,Mitte,0101,Mitte,11001001
+13177007940,,,POINT (13.4534479 52.5082517),52.5082517,13.4534479,standalone,,"Revaler Straße, 10245, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+13177461464,,,POINT (13.4698891 52.5055177),52.5055177,13.4698891,standalone,,"Neue Bahnhofstraße, 10245, Berlin",IC Cash Services,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+13193557763,,,POINT (13.4088221 52.5387248),52.5387248,13.4088221,standalone,,"Oderberger Straße, 52, 10435, Berlin",IC Cash Services,Pankow,0301,Prenzlauer Berg,11003003
+13193624053,,,POINT (13.4307667 52.4679663),52.4679663,13.4307667,standalone,,"Siegfriedstraße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+13227411687,24/7,,POINT (13.391761 52.4978149),52.4978149,13.391761,standalone,not accessible,"Hallesches Ufer, 10969, Berlin",Cashzone,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+13227745169,,,POINT (13.4252205 52.4931752),52.4931752,13.4252205,standalone,,"Bürknerstraße, 12047, Berlin",Cardpoint,Neukölln,0801,Neukölln,11008008
+13243203317,24/7,,POINT (13.4243501 52.4900524),52.4900524,13.4243501,standalone,,"Kottbusser Damm, 73, 10967, Berlin",unknown_atm,Neukölln,0801,Neukölln,11008008
+13255944178,,,POINT (13.4212848 52.4977196),52.4977196,13.4212848,standalone,,"Mariannenstraße, 10999, Berlin",unknown_atm,Friedrichshain-Kreuzberg,0202,Kreuzberg,11002002
+13275438656,,,POINT (13.4133158 52.5459555),52.5459555,13.4133158,standalone,,"Schönhauser Allee, 10437, Berlin",unknown_atm,Pankow,0301,Prenzlauer Berg,11003003
+13283255902,,,POINT (13.4481938 52.485546),52.485546,13.4481938,standalone,,"Harzer Straße, 12059, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+13287873041,,,POINT (13.4367553 52.4810064),52.4810064,13.4367553,standalone,,"Erkstraße, 12043, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+13287930669,,,POINT (13.4381888 52.4814008),52.4814008,13.4381888,standalone,,"Erkstraße, 12043, Berlin",Iccash,Neukölln,0801,Neukölln,11008008
+13287970580,,,POINT (13.4413906 52.4825147),52.4825147,13.4413906,standalone,,"Wildenbruchstraße, 12045, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+13308305562,,,POINT (13.4451247 52.5292368),52.5292368,13.4451247,standalone,,"Danziger Straße, 10407, Berlin",Euronet,Pankow,0301,Prenzlauer Berg,11003003
+13337170559,,,POINT (13.3733415 52.5570274),52.5570274,13.3733415,indoor,accessible,"Schwedenstraße, 13359, Berlin",Sparkasse,Mitte,0106,Gesundbrunnen,11001001
+13366816285,,,POINT (13.2488572 52.610155),52.610155,13.2488572,standalone,accessible,"Dambockstraße, 13503, Berlin",Berliner Sparkasse,Reinickendorf,1204,Heiligensee,11012012
+13375653571,,,POINT (13.431565 52.4663069),52.4663069,13.431565,standalone,,"Silbersteinstraße, 12051, Berlin",Euronet,Neukölln,0801,Neukölln,11008008
+13388753409,,,POINT (13.3615487 52.4811428),52.4811428,13.3615487,standalone,,"Leberstraße, 10829, Berlin",Euronet,Tempelhof-Schöneberg,0701,Schöneberg,11007007
+13390992801,,,POINT (13.3569621 52.5479098),52.5479098,13.3569621,indoor,,"Müllerstraße, 32, 13353, Berlin",Deutsche Bank,Mitte,0105,Wedding,11001001
+13395197277,,,POINT (13.4509322 52.5223212),52.5223212,13.4509322,standalone,,"Straßmannstraße, 10249, Berlin",Euronet,Friedrichshain-Kreuzberg,0201,Friedrichshain,11002002
+502703971,,,POINT (13.411795284870337 52.520919250000006),52.52091823929689,13.41179580859178,standalone,,"Gontardstraße, 10178, Berlin",Euronet,Mitte,0101,Mitte,11001001

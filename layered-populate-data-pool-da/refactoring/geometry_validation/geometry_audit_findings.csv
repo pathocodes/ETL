@@ -1,0 +1,23 @@
+table,issue,details
+bike_lanes,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+bus_stops,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+districts,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+government_offices,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+gyms,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+libraries,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+milieuschutz_protection_zones,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+neighborhoods,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+short_term_listings,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+tram_stops,NON_VARCHAR_TYPE,Column 'geometry' is of type USER-DEFINED
+parks,DUPLICATE_RECORDS,Found 240 groups of duplicates (264 extra rows).
+playgrounds,DUPLICATE_RECORDS,Found 6 groups of duplicates (6 extra rows).
+short_term_listings,DUPLICATE_RECORDS,Found 98 groups of duplicates (201 extra rows).
+ubahn,DUPLICATE_RECORDS,Found 37 groups of duplicates (59 extra rows).
+sbahn,DUPLICATE_RECORDS,Found 7 groups of duplicates (7 extra rows).
+parking_spaces,DUPLICATE_RECORDS,Found 6271 groups of duplicates (6294 extra rows).
+short_term_listings,UNEXPECTED_GEOM_TYPE,Detected ST_MultiPolygon (14187 records). Expected ST_Point.
+parking_spaces,UNEXPECTED_GEOM_TYPE,Detected ST_Polygon (53232 records). Expected ST_Point.
+parking_spaces,UNEXPECTED_GEOM_TYPE,Detected ST_LineString (20 records). Expected ST_Point.
+parking_spaces,UNEXPECTED_GEOM_TYPE,Detected ST_MultiPolygon (255510 records). Expected ST_Point.
+short_term_listings,OUTSIDE_BERLIN,Found 782 records outside the official city boundaries.
+parking_spaces,OUTSIDE_BERLIN,Found 30 records outside the official city boundaries.
